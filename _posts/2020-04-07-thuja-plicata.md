@@ -10,8 +10,6 @@ tags: [assigned, cupressaceae]
 
 *"plicata"* - pleated
 
-Common name: {{ page.commonname }}
-
 {% assign cupressaceae = site.family | where:"title", "Cupressaceae" | first %}
 Family: [Cupressaceae](.{{ cupressaceae.url }})
 
@@ -47,7 +45,7 @@ Ecology & Adaptations:
   - shallow roots allow better access to O<sub>2</sub> in wet conditions
   - seedlings are tolerant of flooding
   - shade tolerant
-  - vegetative reproduction by layer (re-rooting) of fallen/sweeping branches
+  - vegetative reproduction by layering (re-rooting) of fallen/sweeping branches
   - conical shape maximizes light absorption throughout the day, year-round
   - defense:
     - resinous wood is poisonous to insects and resistant to bacterial and fungal infestation
