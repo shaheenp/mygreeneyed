@@ -3,15 +3,22 @@ layout: default
 title: MyGreenEyeD
 ---
 
-<div id="header" class="posts-header">Identifications</div>
+<div class="posts-header">Families</div>
+<ul class="posts">
+    {% for family in site.family %}
+        <li class="post">
+            <a class="post-title" href=".{{ family.url }}"><i>{{ family.title }}</i> ({{ family.commonname }})</a>
+        </li>
+    {% endfor %}
+</ul>
+<div class="posts-header">Identifications</div>
 <ul class="posts">
     {% for post in site.posts %}
         <li class="post">
-            <span class="post-date">
-                <i>{{ post.date | date_to_string }}</i>
-                |
-            </span>
             <a class="post-title" href=".{{ post.url }}"><i>{{ post.title }}</i> ({{ post.commonname }})</a>
+            <span class="post-date">
+                <i>| {{ post.date | date: "%a, %b %-d, %Y" }}</i>
+            </span>
         </li>
     {% endfor %}
 </ul>

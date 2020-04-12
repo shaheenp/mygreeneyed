@@ -5,11 +5,11 @@
 <body>
     {% include nav.html %}
     <main>
-        <div id="header" class="post-header">
-            <span id="post-title"><i>{{ page.title }} ({{ page.commonname }})</i></span>
-            <span id="post-date">Observed: {{ page.date | date_to_long_string }}</span>
+        <div class="post-header">
+            <span class="post-title"><i>{{ page.title }} ({{ page.commonname }})</i></span>
+            <span class="post-date">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>
         </div>
-        <div id="post-body">
+        <div>
             {{ content }}
         </div>
     </main>

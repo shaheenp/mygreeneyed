@@ -6,9 +6,9 @@ commonname: western redcedar
 tags: [assigned, cupressaceae]
 ---
 
-*"Thuja"* - juniper genus
+*Thuja* - juniper genus
 
-*"plicata"* - pleated
+*plicata* - pleated
 
 {% assign cupressaceae = site.family | where:"title", "Cupressaceae" | first %}
 Family: [Cupressaceae](.{{ cupressaceae.url }})
@@ -31,10 +31,10 @@ Cones:
   - turned up and bent backward on branch
 
 Other characteristics:
-  - bark reddish brown and stringy
+  - reddish brown and stringy bark
   - branches drooping, then curve upward at ends
   - "sweet" citrus scent
-  - fast-growing to 200 ft in PNW
+  - fast-growing, up to 200 ft
 
 Relevant info:
   - largest species in Cupressaceae

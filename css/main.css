@@ -75,18 +75,20 @@ img.social {
 main {
     max-width: 100%;
     width: 1170px;
-    padding: 50px 0px;
+    padding-top: 50px;
     margin: auto;
 }
 
-#header {
+.post-header,
+.posts-header {
     font-size: 1.15em;
     margin-bottom: 20px;
     padding-bottom: 5px;
     border-bottom: 1px solid #20202020;
 }
 
-body.night #header {
+body.night .post-header,
+body.night .posts-header {
     border-color: #fbf1c720;
 }
 
@@ -142,12 +144,12 @@ img#sunrise {
 *** home ***
 ***********/
 
-#header.posts-header {
+.posts-header {
     display: inline-block;
     padding-right: 100px;
 }
 
-.post-date {
+.post .post-date {
     color: #00000080;
 }
 
@@ -158,6 +160,7 @@ body.night .post-date {
 ul.posts {
     margin: 0px;
     padding: 0px;
+    padding-bottom: 50px;
     list-style-type: none;
 }
 
@@ -165,16 +168,16 @@ ul.posts {
 *** post ***
 ***********/
 
-#header.post-header {
+.post-header {
     display: flex;
     justify-content: space-between;
 }
 
-#post-date {
+.post-date {
     color: #00000080;
 }
 
-body.night #post-date {
+body.night .post-date {
     color: #d5c4a180;
 }
 
@@ -182,8 +185,8 @@ body.night #post-date {
 ** error  **
 ***********/
 
-#header.error {
-    font-size: 1.3em;
+.error {
+    font-size: 1.15em;
     text-align: center;
     border: none;
 }
