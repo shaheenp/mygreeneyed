@@ -1,0 +1,4 @@
+permalink: /:title
+collections:
+  family:
+    output: true

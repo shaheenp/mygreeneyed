@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-us">
+{% include base.html %}
+{% include head.html %}
+<body>
+    {% include nav.html %}
+    <main>
+        <div id="header" class="post-header">
+            <span id="post-title"><i>{{ page.title }}</i> ({{ page.commonname }})</span>
+        </div>
+        <div id="post-body">
+            {{ content }}
+        </div>
+    </main>
+    {% include footer.html %}
+</body>
+</html>
