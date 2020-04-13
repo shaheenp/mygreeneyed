@@ -149,10 +149,6 @@ img#sunrise {
     padding-right: 100px;
 }
 
-ul.posts + .posts-header {
-    padding-top: 50px;
-}
-
 .post .post-date {
     color: #00000080;
 }
@@ -165,6 +161,18 @@ ul.posts {
     margin: 0px;
     padding: 0px;
     list-style-type: none;
+}
+
+ul.posts + .posts-header {
+    padding-top: 50px;
+}
+
+ul.posts ul {
+    padding-top: 5px;
+}
+
+ul.posts li + li {
+    padding-top: 15px;
 }
 
 /***********
