@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-us">
-{% include base.html %}
 {% include head.html %}
 <body>
     {% include nav.html %}
@@ -8,7 +7,7 @@
         <div class="post-header">
             {% assign family = site.pages | where:"title", page.family | first %}
             <span>
-                <a href="{{ baseUrl }}{{ family.url }}">{{ family.title }}</a>
+                <a href="{{ family.url | relative_url }}">{{ family.title }}</a>
                 /
                 <i>{{ page.title }}</i> ({{ page.commonname }})
             </span>

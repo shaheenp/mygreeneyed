@@ -8,7 +8,7 @@
         "items": [
           {
             "title": "Ilex crenata",
-            "url": "ilex-crenata/"
+            "url": "/aquifoliaceae/ilex-crenata/"
           }
         ]
       }
@@ -23,7 +23,7 @@
         "items": [
           {
             "title": "Thuja plicata",
-            "url": "thuja-plicata/"
+            "url": "/cupressaceae/thuja-plicata/"
           }
         ]
       }
@@ -35,7 +35,7 @@
     "items": [
       {
         "title": "Rhododendron",
-        "url": "rhododendron/"
+        "url": "/ericaceae/rhododendron/"
       }
     ]
   },
@@ -45,11 +45,11 @@
     "items": [
       {
         "title": "Pinus",
-        "url": "pinus/",
+        "url": "/pinaceae/pinus/",
         "items": [
           {
             "title": "Pinus nigra",
-            "url": "pinus-nigra/"
+            "url": "/pinaceae/pinus/pinus-nigra/"
           }
         ]
       }
