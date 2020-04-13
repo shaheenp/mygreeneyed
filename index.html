@@ -20,7 +20,7 @@ title: MyGreenEyeD
                 {% if genus.items %}
                 <ul>
                     {% for species in genus.items %}
-                    <li><a href=".{% if family.url %}{{ family.url }}{% endif %}{% if genus.url %}{{ genus.url }}{% endif %}{{ species.url }}">{{ species.title }}</a></li>
+                    <li><a href=".{% if family.url %}{{ family.url }}{% endif %}{% if genus.url %}{{ genus.url }}{% endif %}{{ species.url }}"><i>{{ species.title }}</i></a></li>
                     {% endfor %}
                 </ul>
                 {% endif %}

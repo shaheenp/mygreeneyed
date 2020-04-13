@@ -42,7 +42,7 @@ Entries:
   {% endif %}
   {% if genus.items[0] %}
   {% for species in genus.items %}
-    - [{{ species.title }}](./{% if genus.url %}{{ genus.url }}{% endif %}{{ species.url }})
+    - *[{{ species.title }}](./{% if genus.url %}{{ genus.url }}{% endif %}{{ species.url }})*
   {% endfor %}
   {% endif %}
 {% endfor %}
