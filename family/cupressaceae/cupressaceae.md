@@ -1,4 +1,5 @@
 ---
+permalink: /cupressaceae/
 layout: family
 title: Cupressaceae
 commonname: cypress family
@@ -22,11 +23,17 @@ Other notes:
   - trees and shrubs
   - aromatic
 
----
-
-Identifications:
-{% for post in site.posts %}
-  {% if post.family == page.title %}
-  - *[{{ post.title }}](..{{ post.url }})*
+Entries:
+{% assign family = site.data.nav | where: "title", page.title | first %}
+{% for genus in family.items %}
+  {% if genus.url %}
+  - [{{ genus.title }}](./{{ genus.url }})
+  {% else %}
+  - {{ genus.title }}
+  {% endif %}
+  {% if genus.items[0] %}
+  {% for species in genus.items %}
+    - [{{ species.title }}](./{% if genus.url %}{{ genus.url }}{% endif %}{{ species.url }})
+  {% endfor %}
   {% endif %}
 {% endfor %}

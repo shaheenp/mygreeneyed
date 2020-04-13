@@ -6,13 +6,22 @@
     {% include nav.html %}
     <main>
         <div class="post-header">
-            {% assign family = site.family | where:"title", post.family | first %}
-            <span class="family">
+            {% assign family = site.data.nav | where:"title", page.family | first %}
+            <span>
                 <a href="{{ baseUrl }}{{ family.url }}">{{ family.title }}</a>
                 /
-                <i>{{ page.title }} ({{ page.commonname }})</i>
+                {% assign genus = family.items | where:"title", page.genus | first %}
+                {% if genus.url %}
+                <a href="{{ baseUrl }}{{ family.url }}{{ genus.url }}">{{ genus.title }}</a>
+                {% else %}
+                {{ genus.title }}
+                {% endif %}
+                /
+                <i>{{ page.title }}</i> ({{ page.commonname }})
             </span>
-            <!-- <span class="post-date">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span> -->
+            {% if page.date %}
+            <span class="post-date">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>
+            {% endif %}
         </div>
         <div>
             {{ content }}

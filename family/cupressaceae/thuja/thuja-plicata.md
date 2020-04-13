@@ -1,4 +1,5 @@
 ---
+permalink: /cupressaceae/thuja-plicata/
 layout: id
 title: Thuja plicata
 commonname: western redcedar

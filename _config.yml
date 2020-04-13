@@ -1,4 +1,1 @@
-permalink: /:title
-collections:
-  family:
-    output: true
+permalink: /:title/

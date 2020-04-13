@@ -6,7 +6,12 @@
     {% include nav.html %}
     <main>
         <div class="post-header">
-            <span>{{ page.title }} ({{ page.commonname }})</span>
+            {% assign family = site.pages | where:"title", page.family | first %}
+            <span>
+                <a href="{{ baseUrl }}{{ family.url }}">{{ family.title }}</a>
+                /
+                <i>{{ page.title }}</i> ({{ page.commonname }})
+            </span>
         </div>
         <div>
             {{ content }}

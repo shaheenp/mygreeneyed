@@ -3,22 +3,32 @@ layout: default
 title: MyGreenEyeD
 ---
 
-<div class="posts-header">Families</div>
+<div class="posts-header">Entries</div>
 <ul class="posts">
-    {% for family in site.family %}
-        <li class="post">
-            <a class="post-title" href=".{{ family.url }}"><i>{{ family.title }}</i> ({{ family.commonname }})</a>
-        </li>
+    {% if site.data.nav %}
+    {% for family in site.data.nav %}
+    <li><a href=".{{ family.url }}">{{ family.title }}</a>
+        {% if family.items %}
+        <ul>
+            {% for genus in family.items %}
+            <li>
+                {% if genus.url %}
+                <a href=".{{ family.url }}{{ genus.url }}">{{ genus.title }}</a>
+                {% else %}
+                {{ genus.title }}
+                {% endif %}
+                {% if genus.items %}
+                <ul>
+                    {% for species in genus.items %}
+                    <li><a href=".{% if family.url %}{{ family.url }}{% endif %}{% if genus.url %}{{ genus.url }}{% endif %}{{ species.url }}">{{ species.title }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </li>
     {% endfor %}
-</ul>
-<div class="posts-header">Identifications</div>
-<ul class="posts">
-    {% for post in site.posts %}
-        <li class="post">
-            <a class="post-title" href=".{{ post.url }}"><i>{{ post.title }}</i> ({{ post.commonname }})</a>
-            <!-- <span class="post-date">
-                <i>| {{ post.date | date: "%a, %b %-d, %Y" }}</i>
-            </span> -->
-        </li>
-    {% endfor %}
+    {% endif %}
 </ul>
