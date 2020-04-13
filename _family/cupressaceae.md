@@ -25,6 +25,8 @@ Other notes:
 ---
 
 Identifications:
-{% for post in site.tags.cupressaceae %}
+{% for post in site.posts %}
+  {% if post.family == page.title %}
   - *[{{ post.title }}](..{{ post.url }})*
+  {% endif %}
 {% endfor %}

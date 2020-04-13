@@ -75,7 +75,7 @@ img.social {
 main {
     max-width: 100%;
     width: 1170px;
-    padding-top: 50px;
+    padding: 50px;
     margin: auto;
 }
 
@@ -149,6 +149,10 @@ img#sunrise {
     padding-right: 100px;
 }
 
+ul.posts + .posts-header {
+    padding-top: 50px;
+}
+
 .post .post-date {
     color: #00000080;
 }
@@ -160,7 +164,6 @@ body.night .post-date {
 ul.posts {
     margin: 0px;
     padding: 0px;
-    padding-bottom: 50px;
     list-style-type: none;
 }
 

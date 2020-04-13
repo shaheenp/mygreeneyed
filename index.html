@@ -16,9 +16,9 @@ title: MyGreenEyeD
     {% for post in site.posts %}
         <li class="post">
             <a class="post-title" href=".{{ post.url }}"><i>{{ post.title }}</i> ({{ post.commonname }})</a>
-            <span class="post-date">
+            <!-- <span class="post-date">
                 <i>| {{ post.date | date: "%a, %b %-d, %Y" }}</i>
-            </span>
+            </span> -->
         </li>
     {% endfor %}
 </ul>
