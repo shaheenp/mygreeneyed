@@ -1,5 +1,5 @@
 ---
-permalink: /ericaceae/arctostaphylos-uva-ursi/
+permalink: /ericaceae/arctostaphylos/arctostaphylos-uva-ursi/
 layout: id
 title: Arctostaphylos uva-ursi
 commonname: kinnikinick, common bearberry

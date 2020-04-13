@@ -1,5 +1,5 @@
 ---
-permalink: /aquifoliaceae/ilex-crenata/
+permalink: /aquifoliaceae/ilex/ilex-crenata/
 layout: id
 title: Ilex crenata
 commonname: convex-leaved holly, Japanese holly

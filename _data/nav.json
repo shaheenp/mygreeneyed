@@ -5,10 +5,11 @@
     "items": [
       {
         "title": "Ilex",
+        "url": "/aquifoliaceae/ilex/",
         "items": [
           {
             "title": "Ilex crenata",
-            "url": "/aquifoliaceae/ilex-crenata/"
+            "url": "/aquifoliaceae/ilex/ilex-crenata/"
           }
         ]
       }
@@ -52,10 +53,11 @@
     "items": [
       {
         "title": "Thuja",
+        "url": "/cupressaceae/thuja/",
         "items": [
           {
             "title": "Thuja plicata",
-            "url": "/cupressaceae/thuja-plicata/"
+            "url": "/cupressaceae/thuja/thuja-plicata/"
           }
         ]
       }
@@ -67,10 +69,11 @@
     "items": [
       {
         "title": "Arctostaphylos",
+        "url": "/ericaceae/arctostaphylos/",
         "items": [
           {
             "title": "Arctostaphylos uva-ursi",
-            "url": "/ericaceae/arctostaphylos-uva-ursi/"
+            "url": "/ericaceae/arctostaphylos/arctostaphylos-uva-ursi/"
           }
         ]
       },
