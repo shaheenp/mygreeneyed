@@ -7,14 +7,11 @@
     <main>
         <div class="post-header">
             {% assign family = site.family | where:"title", post.family | first %}
-            <div class="post-title">
-                <span class="family">
-                    <a href="{{ baseUrl }}{{ family.url }}">{{ family.title }}</a>
-                </span>
-                <br>
-                <br>
-                <span><i>{{ page.title }} ({{ page.commonname }})</i></span>
-            </div>
+            <span class="family">
+                <a href="{{ baseUrl }}{{ family.url }}">{{ family.title }}</a>
+                /
+                <i>{{ page.title }} ({{ page.commonname }})</i>
+            </span>
             <!-- <span class="post-date">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span> -->
         </div>
         <div>
