@@ -4,11 +4,12 @@ layout: id
 title: Ilex crenata
 commonname: convex-leaved holly, Japanese holly
 family: Aquifoliaceae
+genus: Ilex
 ---
 
-*Ilex* - holly genus
+*Ilex* -- holly genus
 
-*crenata* - rounded scallops on leaf margin
+*crenata* -- rounded scallops on leaf margin
 
 Native range: Russia, Japan, Korea
 

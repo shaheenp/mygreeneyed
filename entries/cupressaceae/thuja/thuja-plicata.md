@@ -4,11 +4,12 @@ layout: id
 title: Thuja plicata
 commonname: western redcedar
 family: Cupressaceae
+genus: Thuja
 ---
 
-*Thuja* - juniper genus
+*Thuja* -- juniper genus
 
-*plicata* - pleated
+*plicata* -- pleated
 
 Native range: Northwestern North America
   - from Alaska south to Northern California

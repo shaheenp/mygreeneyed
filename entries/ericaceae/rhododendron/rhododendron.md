@@ -6,9 +6,9 @@ commonname: rhododendron
 family: Ericaceae
 ---
 
-*rhodo* - rose
+*rhodo* -- rose
 
-*dendron* - tree
+*dendron* -- tree
 
 Native range: Europe, Australia, North America, and Asia
 

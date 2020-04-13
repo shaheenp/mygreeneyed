@@ -7,9 +7,9 @@ family: Pinaceae
 genus: Pinus
 ---
 
-*Pinus* - pine genus
+*Pinus* -- pine genus
 
-*nigra* - black
+*nigra* -- black
 
 Native range: Austria, N. Italy to the Balkans
 
@@ -33,6 +33,11 @@ Relevant info:
 
 Ecology & Adaptations:
   - mountain elevations 820-5,910 ft. (250-1,800 m) in central and southern Europe
-  - drought tolerance -- posssibly through deeper roots, increasing root:shoot, changing xylem cell diameter, lignified tissue increase, water-absorbing tissue in needle decrease
+  - drought tolerance -- possibly through:
+    - deeper roots
+    - increasing root:shoot
+    - changing xylem cell diameter
+    - lignified tissue increase
+    - water-absorbing tissue in needle decrease
   - snow/ice damage resistance -- freezing temp lowered with concentrations of soluble carbohydrates & the composition of fatty acids and alkanes in the needles; roots also resistant
   - seedlings > 2 months old contain compounds that make them unpalatable to herbivores/browsers
