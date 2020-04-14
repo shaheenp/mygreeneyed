@@ -5,7 +5,7 @@
     {% include nav.html %}
     <main>
         <div class="post-header">
-            <span>{{ page.title }} ({{ page.commonname }})</span>
+            <span>{{ page.title }}{% if page.commonname %} ({{ page.commonname }}){% endif %}</span>
         </div>
         <div>
             {{ content }}

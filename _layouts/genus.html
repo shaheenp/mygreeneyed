@@ -5,11 +5,11 @@
     {% include nav.html %}
     <main>
         <div class="post-header">
-            {% assign family = site.pages | where:"title", page.family | first %}
+            {% assign family = site.data.nav | where:"title", page.family | first %}
             <span>
                 <a href="{{ family.url | relative_url }}">{{ family.title }}</a>
                 /
-                <span class="italic">{{ page.title }}</span> ({{ page.commonname }})
+                <span class="italic">{{ page.title }}</span>{% if page.commonname %} ({{ page.commonname }}){% endif %}
             </span>
         </div>
         <div>

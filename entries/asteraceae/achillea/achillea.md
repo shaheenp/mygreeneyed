@@ -1,9 +1,9 @@
 ---
-permalink: /buxaceae/buxus/
+permalink: /asteraceae/achillea/
 layout: genus
-title: Buxus
-commonname: boxwood genus
-family: Buxaceae
+title: Achillea
+commonname: yarrows
+family: Asteraceae
 ---
 
 Entries:

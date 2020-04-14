@@ -7,15 +7,8 @@ family: Ericaceae
 ---
 
 Entries:
-{% for family in site.data.nav %}
-{% if family.title == page.family %}
-{% for genus in family.items %}
-{% if genus.title == page.title %}
-  {% for species in genus.items %}
+{% assign family = site.data.nav | where: "title", page.family | first %}
+{% assign genus = family.items | where: "title", page.title | first %}
+{% for species in genus.items %}
   - [{{ species.title }}]({{ species.url | relative_url }}){:.italic}
-  {% endfor %}
-{% endif %}
 {% endfor %}
-{% endif %}
-{% endfor %}
-

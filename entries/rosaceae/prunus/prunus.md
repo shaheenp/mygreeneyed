@@ -1,9 +1,9 @@
 ---
-permalink: /buxaceae/buxus/
+permalink: /rosaceae/prunus/
 layout: genus
-title: Buxus
-commonname: boxwood genus
-family: Buxaceae
+title: Prunus
+commonname: plum genus
+family: Rosaceae
 ---
 
 Entries:

@@ -16,7 +16,7 @@
                 <span class="italic">{{ genus.title }}</span>
                 {% endif %}
                 /
-                <span class="italic">{{ page.title }}</span> ({{ page.commonname }})
+                <span class="italic">{{ page.title }}</span> {% if page.commonname %}({{ page.commonname }}){% endif %}
             </span>
             {% if page.date %}
             <span class="post-date">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>

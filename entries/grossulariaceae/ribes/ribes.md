@@ -1,9 +1,9 @@
 ---
-permalink: /buxaceae/buxus/
+permalink: /grossulariaceae/ribes/
 layout: genus
-title: Buxus
-commonname: boxwood genus
-family: Buxaceae
+title: Ribes
+commonname: currants, gooseberries
+family: Grossulariaceae
 ---
 
 Entries:

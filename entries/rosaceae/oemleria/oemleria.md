@@ -1,9 +1,9 @@
 ---
-permalink: /buxaceae/buxus/
+permalink: /rosaceae/oemleria/
 layout: genus
-title: Buxus
-commonname: boxwood genus
-family: Buxaceae
+title: Oemleria
+commonname:
+family: Rosaceae
 ---
 
 Entries:
