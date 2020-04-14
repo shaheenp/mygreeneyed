@@ -24,7 +24,7 @@
         }
 
         sunset() {
-            const {sunsetElement, sunriseElement, socialElements} = this;
+            const {sunsetElement, sunriseElement} = this;
 
             document.body.classList.add('night');
             window.localStorage.setItem('darkMode', 'true');
@@ -33,7 +33,7 @@
         }
 
         sunrise() {
-            const {sunsetElement, sunriseElement, socialElements} = this;
+            const {sunsetElement, sunriseElement} = this;
 
             document.body.classList.remove('night');
             window.localStorage.setItem('darkMode', 'false');
