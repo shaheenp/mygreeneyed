@@ -23,7 +23,11 @@
                 <ul>
                 {% assign genera = site.pages | where: "family", page.title | where: "layout", "genus" %}
                 {% for genus in genera %}
-                    <li class="italic"><a href="{{ genus.url | relative_url}}">{{ genus.title }}</a></li>
+                    <li>
+                        <a href="{{ genus.url | relative_url}}">
+                            <span class="italic">{{ genus.title }}</span>{% if genus.commonname %} ({{ genus.commonname }}){% endif %}
+                        </a>
+                    </li>
                 {% endfor %}
                 </ul>
             </div>

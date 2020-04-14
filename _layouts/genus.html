@@ -26,7 +26,11 @@
                 <ul>
                 {% assign species = site.pages | where: "family", page.family | where: "genus", page.title %}
                 {% for s in species %}
-                    <li class="italic"><a href="{{ s.url | relative_url}}">{{ s.title }}</a></li>
+                    <li>
+                        <a href="{{ s.url | relative_url}}">
+                            <span class="italic">{{ s.title }}</span>{% if s.commonname %} ({{ s.commonname }}){% endif %}
+                        </a>
+                    </li>
                 {% endfor %}
             </div>
         </div>

@@ -9,7 +9,9 @@ title: MyGreenEyeD
             {% assign fams = site.pages | where: "layout", "family" %}
             {% for fam in fams %}
             <li>
-                <a href="{{ fam.url | relative_url }}">{{ fam.title }}</a>
+                <a href="{{ fam.url | relative_url }}">
+                    {{ fam.title }}{% if fam.commonname %} ({{ fam.commonname }}){% endif %}
+                </a>
             </li>
             {% endfor %}
         </ul>
