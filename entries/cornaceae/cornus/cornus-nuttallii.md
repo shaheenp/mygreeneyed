@@ -46,7 +46,7 @@ Other characteristics:
 
 Ecology & Adaptations:
   - moist but well-drained soils, on gentle slopes, predominantly occurring below 5,000 ft. (1,524 m.)
-  - low frost tolerance, high flood tolerance & moderate shade tolerance -> common along stream banks in low-elevation (below 5,000 ft.) coniferous, hardwood, and mixed coastal forests in temperate climates
+  - low frost tolerance, high flood tolerance & moderate shade tolerance &rarr; common along stream banks in low-elevation (below 5,000 ft.) coniferous, hardwood, and mixed coastal forests in temperate climates
   - populations most abundant in subcanopy of Douglas-fir forests of the Puget Sound basin and redwood forests of CA
   - drought tolerant -- deep taproot
   - shade tolerant:
