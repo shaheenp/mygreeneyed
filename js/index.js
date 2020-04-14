@@ -4,10 +4,13 @@
     class Page {
         constructor() {
             document.addEventListener('DOMContentLoaded', () => this.init());
+
+            this.prefersDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
         }
 
         init() {
-            this.prefersDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const {prefersDarkMode} = this;
+
             this.sunsetElement = document.querySelector('img#sunset');
             this.sunriseElement = document.querySelector('img#sunrise');
             this.socialElements = Array.from(document.querySelectorAll('img.social'));
@@ -16,13 +19,13 @@
             this.sunriseElement.addEventListener('click', () => this.sunrise());
 
             if (window.localStorage.getItem('darkMode') === 'true' ||
-                (this.prefersDarkMode && window.localStorage.getItem('darkMode') !== 'false')) {
+                (prefersDarkMode && window.localStorage.getItem('darkMode') !== 'false')) {
                 this.sunset();
             }
         }
 
         sunset() {
-            const {sunsetElement, sunriseElement, socialElements, prefersDarkMode} = this;
+            const {sunsetElement, sunriseElement, socialElements} = this;
 
             document.body.classList.add('night');
             window.localStorage.setItem('darkMode', 'true');
@@ -34,7 +37,7 @@
         }
 
         sunrise() {
-            const {sunsetElement, sunriseElement, socialElements, prefersDarkMode} = this;
+            const {sunsetElement, sunriseElement, socialElements} = this;
 
             document.body.classList.remove('night');
             window.localStorage.setItem('darkMode', 'false');
