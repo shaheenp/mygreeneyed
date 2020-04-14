@@ -1,7 +1,7 @@
 ---
 permalink: /pinaceae/cedrus/cedrus-deodara/
 layout: species
-title: Cedus deodara
+title: Cedrus deodara
 commonname: Himalayan cedar
 family: Pinaceae
 genus: Cedrus
