@@ -15,8 +15,8 @@
             </span>
         </div>
         <div class="column-container">
-            {% assign c = content | strip_newlines | strip %}
-            {% if c != "" %}
+            {% assign c = content | strip %}
+            {% if c != empty %}
             <div>
                 {{ c }}
             </div>
