@@ -13,7 +13,6 @@
 
             this.sunsetElement = document.querySelector('img#sunset');
             this.sunriseElement = document.querySelector('img#sunrise');
-            this.socialElements = Array.from(document.querySelectorAll('img.social'));
 
             this.sunsetElement.addEventListener('click', () => this.sunset());
             this.sunriseElement.addEventListener('click', () => this.sunrise());
@@ -31,9 +30,6 @@
             window.localStorage.setItem('darkMode', 'true');
             sunsetElement.style.display = 'none';
             sunriseElement.style.display = '';
-            socialElements.forEach(img => {
-                img.style.display = img.classList.contains('social-night') ? '' : 'none';
-            });
         }
 
         sunrise() {
@@ -43,9 +39,6 @@
             window.localStorage.setItem('darkMode', 'false');
             sunsetElement.style.display = '';
             sunriseElement.style.display = 'none';
-            socialElements.forEach(img => {
-                img.style.display = img.classList.contains('social-night') ? 'none' : '';
-            });
         }
     }
 
