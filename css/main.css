@@ -148,6 +148,14 @@ img#sunrise {
 *** home ***
 ***********/
 
+div.column-container {
+    display: flex;
+}
+
+div.column-container > div {
+    flex: 50%;
+}
+
 .posts-header {
     display: inline-block;
     padding-right: 100px;
@@ -167,16 +175,8 @@ ul.posts {
     list-style-type: none;
 }
 
-ul.posts + .posts-header {
-    padding-top: 50px;
-}
-
-ul.posts ul {
-    padding-top: 5px;
-}
-
 ul.posts li + li {
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 /***********

@@ -11,17 +11,17 @@
                 {% assign family = site.pages | where: "title", page.family | first %}
                 <a href="{{ family.url | relative_url }}">{{ family.title }}</a>
                 /
-                <span class="italic">{{ page.title }}</span>{% if page.commonname %} ({{ page.commonname }}){% endif %}
+                {% assign genus = site.pages | where: "title", page.genus | where: "family", page.family | first %}
+                <a class="italic" href="{{ genus.url | relative_url }}">{{ genus.title }}</a>
+                /
+                <span class="italic">{{ page.title }}</span> {% if page.commonname %}({{ page.commonname }}){% endif %}
             </span>
+            {% if page.date %}
+            <span class="post-date">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>
+            {% endif %}
         </div>
         <div>
             {{ content }}
-            <p>Species:</p>
-            <ul>
-            {% assign species = site.pages | where: "family", page.family | where: "genus", page.title %}
-            {% for s in species %}
-                <li class="italic"><a href="{{ s.url | relative_url}}">{{ s.title }}</a></li>
-            {% endfor %}
         </div>
     </main>
     {% include footer.html %}

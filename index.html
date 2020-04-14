@@ -2,33 +2,30 @@
 layout: default
 title: MyGreenEyeD
 ---
-
-<div class="posts-header">Entries</div>
-<ul class="posts">
-    {% if site.data.nav %}
-    {% for family in site.data.nav %}
-    <li><a href="{{ family.url | relative_url }}">{{ family.title }}</a>
-        {% if family.items %}
-        <ul>
-            {% for genus in family.items %}
+<div class="column-container">
+    <div>
+        <div class="posts-header">Families</div>
+        <ul class="posts">
+            {% assign fams = site.pages | where: "layout", "family" %}
+            {% for fam in fams %}
             <li>
-                {% if genus.url %}
-                <a class="italic" href="{{ genus.url | relative_url }}">{{ genus.title }}</a>
-                {% else %}
-                <span class="italic">{{ genus.title }}</span>
-                {% endif %}
-                {% if genus.items %}
-                <ul>
-                    {% for species in genus.items %}
-                    <li class="italic"><a href="{{ species.url | relative_url }}">{{ species.title }}</a></li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
+                <a href="{{ fam.url | relative_url }}">{{ fam.title }}</a>
             </li>
             {% endfor %}
         </ul>
-        {% endif %}
-    </li>
-    {% endfor %}
-    {% endif %}
-</ul>
+    </div>
+    <div>
+        <div class="posts-header">Discovery Log</div>
+        <ul class="posts">
+            {% assign entries = site.pages | where: "discovery", "true" %}
+            {% for entry in entries %}
+            <li class="post">
+                <a class="post-title" href="{{ entry.url | relative_url }}"><span class="italic">{{ entry.title }}</span> ({{ entry.commonname }})</a>
+                <span class="post-date">
+                    <i>| {{ entry.date | date: "%a, %b %-d, %Y" }}</i>
+                </span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
