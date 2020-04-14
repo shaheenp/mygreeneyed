@@ -11,15 +11,21 @@
                 {{ page.title }}{% if page.commonname %} ({{ page.commonname }}){% endif %}
             </span>
         </div>
-        <div>
-            {{ content }}
-            <p>Genera:</p>
-            <ul>
-            {% assign genera = site.pages | where: "family", page.title | where: "layout", "genus" %}
-            {% for genus in genera %}
-                <li class="italic"><a href="{{ genus.url | relative_url}}">{{ genus.title }}</a></li>
-            {% endfor %}
-            </ul>
+        <div class="column-container">
+            {% if content == blank %}
+            <div>
+                {{ content }}
+            </div>
+            {% endif %}
+            <div>
+                <p>Genera:</p>
+                <ul>
+                {% assign genera = site.pages | where: "family", page.title | where: "layout", "genus" %}
+                {% for genus in genera %}
+                    <li class="italic"><a href="{{ genus.url | relative_url}}">{{ genus.title }}</a></li>
+                {% endfor %}
+                </ul>
+            </div>
         </div>
     </main>
     {% include footer.html %}

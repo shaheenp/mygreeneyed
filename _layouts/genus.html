@@ -14,14 +14,20 @@
                 <span class="italic">{{ page.title }}</span>{% if page.commonname %} ({{ page.commonname }}){% endif %}
             </span>
         </div>
-        <div>
-            {{ content }}
-            <p>Species:</p>
-            <ul>
-            {% assign species = site.pages | where: "family", page.family | where: "genus", page.title %}
-            {% for s in species %}
-                <li class="italic"><a href="{{ s.url | relative_url}}">{{ s.title }}</a></li>
-            {% endfor %}
+        <div class="column-container">
+            {% if content == blank %}
+            <div>
+                {{ content }}
+            </div>
+            {% endif %}
+            <div>
+                <p>Species:</p>
+                <ul>
+                {% assign species = site.pages | where: "family", page.family | where: "genus", page.title %}
+                {% for s in species %}
+                    <li class="italic"><a href="{{ s.url | relative_url}}">{{ s.title }}</a></li>
+                {% endfor %}
+            </div>
         </div>
     </main>
     {% include footer.html %}
