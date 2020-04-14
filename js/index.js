@@ -15,10 +15,9 @@
             this.sunsetElement.addEventListener('click', () => this.sunset());
             this.sunriseElement.addEventListener('click', () => this.sunrise());
 
-            if (this.prefersDarkMode || window.localStorage.getItem('night')) {
-                if (!window.localStorage.getItem('preferenceOverride')) {
-                    this.sunset();
-                }
+            if (window.localStorage.getItem('darkMode') === 'true' ||
+                (this.prefersDarkMode && window.localStorage.getItem('darkMode') !== 'false')) {
+                this.sunset();
             }
         }
 
@@ -26,8 +25,7 @@
             const {sunsetElement, sunriseElement, socialElements, prefersDarkMode} = this;
 
             document.body.classList.add('night');
-            window.localStorage.setItem('night', 'true');
-            window.localStorage.removeItem('preferenceOverride');
+            window.localStorage.setItem('darkMode', 'true');
             sunsetElement.style.display = 'none';
             sunriseElement.style.display = '';
             socialElements.forEach(img => {
@@ -39,12 +37,7 @@
             const {sunsetElement, sunriseElement, socialElements, prefersDarkMode} = this;
 
             document.body.classList.remove('night');
-            window.localStorage.removeItem('night');
-
-            if (prefersDarkMode) {
-                window.localStorage.setItem('preferenceOverride', 'true');
-            }
-
+            window.localStorage.setItem('darkMode', 'false');
             sunsetElement.style.display = '';
             sunriseElement.style.display = 'none';
             socialElements.forEach(img => {
