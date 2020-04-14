@@ -15,9 +15,10 @@
             </span>
         </div>
         <div class="column-container">
-            {% if content == blank %}
+            {% assign c = content | strip_newlines | strip %}
+            {% if c != "" %}
             <div>
-                {{ content }}
+                {{ c }}
             </div>
             {% endif %}
             <div>
