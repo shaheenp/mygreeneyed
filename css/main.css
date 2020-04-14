@@ -9,14 +9,14 @@ html, body {
     padding: 0px;
 }
 
-body {
-    font-weight: 300;
-    font-size: .875em;
-}
-
 body,
 body * {
     font-family: Roboto Mono, Menlo, Courier, monospace;
+}
+
+body {
+    font-weight: 300;
+    font-size: .875em;
 }
 
 body.night {
@@ -90,6 +90,10 @@ main {
 body.night .post-header,
 body.night .posts-header {
     border-color: #fbf1c720;
+}
+
+.italic {
+    font-style: italic;
 }
 
 img#sunset,

@@ -11,12 +11,12 @@
                 /
                 {% assign genus = family.items | where:"title", page.genus | first %}
                 {% if genus.url %}
-                <a href="{{ genus.url | relative_url }}">{{ genus.title }}</a>
+                <a class="italic" href="{{ genus.url | relative_url }}">{{ genus.title }}</a>
                 {% else %}
-                {{ genus.title }}
+                <span class="italic">{{ genus.title }}</span>
                 {% endif %}
                 /
-                <i>{{ page.title }}</i> ({{ page.commonname }})
+                <span class="italic">{{ page.title }}</span> ({{ page.commonname }})
             </span>
             {% if page.date %}
             <span class="post-date">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>

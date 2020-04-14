@@ -21,7 +21,7 @@ Leaves:
   - small (1/2" - 1" long)
   - mostly flat
   - upper surface –- dark green
-  - lower surface –- dotted with transluscent or blackish glands; glabrous
+  - lower surface –- dotted with translucent or blackish glands; glabrous
   - short petiole
 
 Flowers:

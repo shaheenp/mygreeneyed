@@ -26,7 +26,7 @@ Other notes:
   - trees to 250 ft.
   - pyramidal when young, flat-topped when old
   - evergreen
-  - **NOTE: lots of species are commonly called "cedar" but this genus contains the true cedars**
+  - **NOTE:** lots of species are commonly called "cedar" but this genus contains the **true cedars**
 
 Entries:
 {% for family in site.data.nav %}
@@ -34,7 +34,7 @@ Entries:
 {% for genus in family.items %}
 {% if genus.title == page.title %}
   {% for species in genus.items %}
-  - *[{{ species.title }}]({{ species.url | relative_url }})*
+  - [{{ species.title }}]({{ species.url | relative_url }}){:.italic}
   {% endfor %}
 {% endif %}
 {% endfor %}

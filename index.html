@@ -13,14 +13,14 @@ title: MyGreenEyeD
             {% for genus in family.items %}
             <li>
                 {% if genus.url %}
-                <a href="{{ genus.url | relative_url }}">{{ genus.title }}</a>
+                <a class="italic" href="{{ genus.url | relative_url }}">{{ genus.title }}</a>
                 {% else %}
-                {{ genus.title }}
+                <span class="italic">{{ genus.title }}</span>
                 {% endif %}
                 {% if genus.items %}
                 <ul>
                     {% for species in genus.items %}
-                    <li><a href="{{ species.url | relative_url }}"><i>{{ species.title }}</i></a></li>
+                    <li class="italic"><a href="{{ species.url | relative_url }}">{{ species.title }}</a></li>
                     {% endfor %}
                 </ul>
                 {% endif %}

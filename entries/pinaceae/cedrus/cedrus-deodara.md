@@ -7,7 +7,7 @@ family: Pinaceae
 genus: Cedrus
 ---
 
-*cedrus* -- cedar (Latin)
+*Cedrus* -- cedar (Latin)
 
 *deodara* -- comes from the plant's name in Northern India
 

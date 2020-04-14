@@ -31,7 +31,7 @@ Entries:
 {% for genus in family.items %}
 {% if genus.title == page.title %}
   {% for species in genus.items %}
-  - *[{{ species.title }}]({{ species.url | relative_url }})*
+  - [{{ species.title }}]({{ species.url | relative_url }}){:.italic}
   {% endfor %}
 {% endif %}
 {% endfor %}
