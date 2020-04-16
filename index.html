@@ -19,7 +19,7 @@ title: MyGreenEyeD
     <div>
         <div class="posts-header">Discovery Log</div>
         <ul class="posts">
-            {% assign entries = site.pages | where: "discovery", "true" %}
+            {% assign entries = site.pages | where: "discovery", "true" | sort: "date" | reverse %}
             {% for entry in entries %}
             <li class="post">
                 <a class="post-title" href="{{ entry.url | relative_url }}"><span class="italic">{{ entry.title }}</span> ({{ entry.commonname }})</a>
