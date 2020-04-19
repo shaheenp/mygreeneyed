@@ -67,11 +67,6 @@ a:visited {
     color: #458B00;
 }
 
-img.social {
-    height: 24px;
-    vertical-align: middle;
-}
-
 main {
     max-width: 100%;
     width: 1170px;
@@ -94,6 +89,11 @@ body.night .posts-header {
 
 .italic {
     font-style: italic;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 img#sunset,
