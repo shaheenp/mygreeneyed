@@ -21,10 +21,11 @@
                 {{ c }}
             </div>
             {% endif %}
+            {% assign species = site.pages | where: "family", page.family | where: "genus", page.title %}
+            {% if species[0] %}
             <div>
                 <p>Species:</p>
                 <ul>
-                {% assign species = site.pages | where: "family", page.family | where: "genus", page.title %}
                 {% for s in species %}
                     <li>
                         <a href="{{ s.url | relative_url}}">
@@ -33,6 +34,7 @@
                     </li>
                 {% endfor %}
             </div>
+            {% endif %}
         </div>
     </main>
     {% include footer.html %}
