@@ -205,7 +205,7 @@ body.night .post-date {
     }
 
     div.column-container {
-        display: block;
+        flex-direction: column;
     }
 
     div.column-container > div + div {
@@ -214,12 +214,11 @@ body.night .post-date {
     }
 
     .post-header {
-        display: block;
+        flex-direction: column;
     }
 
     .post-header > .post-date {
-        display: block;
-        padding-top: 10px;
+        margin-top: 10px;
     }
 }
 
