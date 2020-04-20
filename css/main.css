@@ -117,6 +117,10 @@ div.column-container > div {
     flex: 50%;
 }
 
+div.column-container > div + div {
+    margin-left: 10px;
+}
+
 .posts-header {
     display: inline-block;
     padding-right: 100px;
@@ -199,11 +203,20 @@ body.night .post-date {
         width: 750px;
     }
 
+    div.column-container {
+        display: block;
+    }
+
+    div.column-container > div + div {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
     .post-header {
         display: block;
     }
 
-    .post-date {
+    .post-header > .post-date {
         display: block;
         padding-top: 10px;
     }
