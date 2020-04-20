@@ -105,45 +105,6 @@ img#sunrise {
     cursor: pointer;
 }
 
-.unselectable {
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-@media only screen and (max-width: 1200px) {
-    nav > div.navbar {
-        width: 970px;
-    }
-
-    main {
-        width: 970px;
-    }
-}
-
-@media only screen and (max-width: 992px) {
-    nav > div.navbar {
-        width: 750px;
-    }
-
-    main {
-        max-width: calc(100% - 150px);
-        width: 750px;
-    }
-}
-
-/* roboto-mono-300 - latin */
-@font-face {
-  font-family: 'Roboto Mono';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Roboto Mono Light'), local('RobotoMono-Light'),
-       url('../fonts/roboto-mono-v5-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/roboto-mono-v5-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
 /***********
 *** home ***
 ***********/
@@ -204,4 +165,56 @@ body.night .post-date {
     font-size: 1.15em;
     text-align: center;
     border: none;
+}
+
+/***********
+*** all  ***
+***********/
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media only screen and (max-width: 1270px) {
+    nav > div.navbar {
+        width: 970px;
+    }
+
+    main {
+        width: 970px;
+    }
+}
+
+@media only screen and (max-width: 1070px) {
+    nav > div.navbar {
+        width: 750px;
+    }
+
+    main {
+        max-width: calc(100% - 150px);
+        width: 750px;
+    }
+
+    .post-header {
+        display: block;
+    }
+
+    .post-date {
+        display: block;
+        padding-top: 10px;
+    }
+}
+
+/* roboto-mono-300 - latin */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Mono Light'), local('RobotoMono-Light'),
+       url('../fonts/roboto-mono-v5-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-mono-v5-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
