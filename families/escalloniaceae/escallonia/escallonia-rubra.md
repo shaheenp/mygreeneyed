@@ -29,9 +29,8 @@ Flowers:
 ![closeup of leaves and flowers]({{ "/img/escallonia-rubra-closeup.jpg" | relative_url }} "closeup of leaves and flowers - photo by Shaheen Page")
 
 Resources used to identify:
-  - iNaturalist
-  - PlantNet
-  - Wikipedia -- [https://en.wikipedia.org/wiki/Escallonia_rubra](https://en.wikipedia.org/wiki/Escallonia_rubra)
+  - [iNaturalist](https://www.inaturalist.org/taxa/162726-Escallonia-rubra)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Escallonia_rubra)
   - additional image searches to compare/verify
 
 Relevant info:
