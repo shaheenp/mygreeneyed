@@ -18,7 +18,6 @@ Native range: Southern Europe in woodlands
 Leaves:
   - deeply dissected
   - ternate to palmate
-  -
 
 ![leaves]({{ "/img/geranium-robertianum-leaves.jpg" | relative_url }} "leaves - photo by Shaheen Page")
 
