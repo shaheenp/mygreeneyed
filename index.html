@@ -10,7 +10,7 @@ title: MyGreenEyeD
             {% for fam in fams %}
                 {% assign genera = site.pages | where: "family", fam.title | where: "layout", "genus" %}
             <li>
-                <a href="{{ fam.url | relative_url }}">{{ fam.title }}{% if fam.commonname %}({{ fam.commonname }}){% endif %}</a>
+                <a href="{{ fam.url | relative_url }}">{{ fam.title }}{% if fam.commonname %} ({{ fam.commonname }}){% endif %}</a>
                 {% if genera.size > 0 %}<span class="faded">| {{ genera.size }} genera</span>{% endif %}
             </li>
             {% endfor %}
