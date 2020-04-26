@@ -2,7 +2,7 @@
 permalink: /pinaceae/pinus/
 layout: genus
 title: Pinus
-commonname: pine genus
+commonname: pines
 family: Pinaceae
 ---
 

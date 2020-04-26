@@ -2,7 +2,7 @@
 permalink: /ericaceae/rhododendron/
 layout: genus
 title: Rhododendron
-commonname: rhododendron
+commonname: rhododendrons
 family: Ericaceae
 ---
 

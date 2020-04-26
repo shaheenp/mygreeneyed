@@ -2,6 +2,6 @@
 permalink: /pinaceae/picea/
 layout: genus
 title: Picea
-commonname: spruce genus
+commonname: spruces
 family: Pinaceae
 ---

@@ -1,3 +1,5 @@
 exclude: [readme.md]
 plugins:
   - jekyll-relative-links
+collections:
+  - terms

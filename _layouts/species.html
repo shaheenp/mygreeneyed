@@ -21,7 +21,19 @@
             {% endif %}
         </div>
         <div>
-            {{ content }}
+            {% assign c = content %}
+            {% for term in site.terms %}
+                {% if c contains term.title %}
+                    {% capture replacetext %}
+                    <div class="tooltip">
+                        {{ term.title }}
+                        <span class="tooltiptext">{{ term.definition }}</span>
+                    </div>
+                    {% endcapture %}
+                    {% assign c = c | replace: term.title, replacetext %}
+                {% endif %}
+            {% endfor %}
+            {{ c }}
         </div>
     </main>
     {% include footer.html %}

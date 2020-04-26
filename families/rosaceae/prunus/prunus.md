@@ -2,6 +2,6 @@
 permalink: /rosaceae/prunus/
 layout: genus
 title: Prunus
-commonname: plum genus
+commonname: plums
 family: Rosaceae
 ---

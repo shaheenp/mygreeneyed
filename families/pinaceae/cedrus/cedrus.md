@@ -2,7 +2,7 @@
 permalink: /pinaceae/cedrus/
 layout: genus
 title: Cedrus
-commonname: true cedar genus
+commonname: true cedars
 family: Pinaceae
 ---
 
