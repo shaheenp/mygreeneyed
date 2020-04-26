@@ -1,9 +1,9 @@
 ---
-permalink: /viburnaceae/viburnum/
+permalink: /adoxaceae/viburnum/
 layout: genus
 title: Viburnum
-commonname: viburnum genus
-family: Viburnaceae
+commonname: viburnums
+family: Adoxaceae
 ---
 
 Leaves:

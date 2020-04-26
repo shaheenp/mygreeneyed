@@ -1,9 +1,9 @@
 ---
-permalink: /viburnaceae/viburnum/viburnum-tinus/
+permalink: /adoxaceae/viburnum/viburnum-tinus/
 layout: species
 title: Viburnum tinus
 commonname: laurustinus, laurustine
-family: Viburnaceae
+family: Adoxaceae
 genus: Viburnum
 ---
 

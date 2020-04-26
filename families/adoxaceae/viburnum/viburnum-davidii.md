@@ -1,9 +1,9 @@
 ---
-permalink: /viburnaceae/viburnum/viburnum-davidii/
+permalink: /adoxaceae/viburnum/viburnum-davidii/
 layout: species
 title: Viburnum davidii
 commonname: David viburnum
-family: Viburnaceae
+family: Adoxaceae
 genus: Viburnum
 ---
 

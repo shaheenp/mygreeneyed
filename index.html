@@ -23,7 +23,7 @@ title: MyGreenEyeD
             {% assign entries = site.pages | where: "discovery", "true" | sort: "date" | reverse %}
             {% for entry in entries %}
             <li class="post">
-                <a class="post-title" href="{{ entry.url | relative_url }}"><span class="italic">{{ entry.title }}</span> ({{ entry.commonname }})</a>
+                <a class="post-title" href="{{ entry.url | relative_url }}"><span class="italic">{{ entry.title }}</span>{% if entry.commonname %} ({{ entry.commonname }}){% endif %}</a>
                 <span class="faded">
                     <i>| {{ entry.date | date: "%b %-d, %Y" }}</i>
                 </span>
