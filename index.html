@@ -8,10 +8,10 @@ title: MyGreenEyeD
         <ul class="posts">
             {% assign fams = site.pages | where: "layout", "family" %}
             {% for fam in fams %}
+                {% assign genera = site.pages | where: "family", fam.title | where: "layout", "genus" %}
             <li>
-                <a href="{{ fam.url | relative_url }}">
-                    {{ fam.title }}{% if fam.commonname %} ({{ fam.commonname }}){% endif %}
-                </a>
+                <a href="{{ fam.url | relative_url }}">{{ fam.title }}{% if fam.commonname %}({{ fam.commonname }}){% endif %}</a>
+                {% if genera.size > 0 %}<span class="faded">| {{ genera.size }} genera</span>{% endif %}
             </li>
             {% endfor %}
         </ul>
@@ -23,7 +23,7 @@ title: MyGreenEyeD
             {% for entry in entries %}
             <li class="post">
                 <a class="post-title" href="{{ entry.url | relative_url }}"><span class="italic">{{ entry.title }}</span> ({{ entry.commonname }})</a>
-                <span class="post-date">
+                <span class="faded">
                     <i>| {{ entry.date | date: "%b %-d, %Y" }}</i>
                 </span>
             </li>

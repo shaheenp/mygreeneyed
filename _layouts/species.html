@@ -17,7 +17,7 @@
                 <span class="italic">{{ page.title }}</span> {% if page.commonname %}({{ page.commonname }}){% endif %}
             </span>
             {% if page.date %}
-            <span class="post-date">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>
+            <span id="postDate" class="faded">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>
             {% endif %}
         </div>
         <div>

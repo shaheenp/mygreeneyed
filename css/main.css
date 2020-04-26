@@ -92,6 +92,14 @@ body.night .posts-header {
     font-style: italic;
 }
 
+.faded {
+    color: #00000080;
+}
+
+body.night .faded {
+    color: #d5c4a180;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -127,14 +135,6 @@ div.column-container > div + div {
     padding-right: 100px;
 }
 
-.post .post-date {
-    color: #00000080;
-}
-
-body.night .post-date {
-    color: #d5c4a180;
-}
-
 ul.posts {
     margin: 0px;
     padding: 0px;
@@ -152,14 +152,6 @@ ul.posts li + li {
 .post-header {
     display: flex;
     justify-content: space-between;
-}
-
-.post-date {
-    color: #00000080;
-}
-
-body.night .post-date {
-    color: #d5c4a180;
 }
 
 /***********
@@ -217,7 +209,7 @@ body.night .post-date {
         flex-direction: column;
     }
 
-    .post-header > .post-date {
+    #postDate {
         margin-top: 10px;
     }
 }
