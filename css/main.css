@@ -174,7 +174,7 @@ div.column-container > div {
 }
 
 div.column-container > div + div {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .posts-header {

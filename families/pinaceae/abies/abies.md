@@ -31,7 +31,7 @@ Other notes:
   - trees to 100' or more
   - usually pyramidal in form
   - evergreen
-  - when leaves fall off there is a circular scar on branch (but no pegs, as in [Picea](../picea/))
+  - when leaves fall off there is a circular scar on branch (but no pegs, as in *[Picea](../picea/)*)
   - "sharp spruce, fine fir"
   - buds rounded, ~covered with wax, resin, or curved needles
   - buds near ends of twigs often grow in clusters of 3 -- "cruciform buds" -- lead to very regular branching pattern
