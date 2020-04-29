@@ -1,7 +1,7 @@
 ---
 permalink: /cupressaceae/chamaecyparis/chamaecyparis-lawsoniana/
 layout: species
-title: Chamaecyparis plicata
+title: Chamaecyparis lawsoniana
 commonname: Lawson cypress, Port Orford cedar
 family: Cupressaceae
 genus: Chamaecyparis
