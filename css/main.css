@@ -17,11 +17,17 @@ body * {
 body {
     font-weight: 300;
     font-size: .875em;
+    background-color: #d5c4a180;
 }
 
 body.night {
     background-color: #202020;
     color: #d5c4a1;
+}
+
+#container {
+    min-height: 100%;
+    position: relative;
 }
 
 nav {
@@ -55,7 +61,7 @@ div.nav-right > span {
 }
 
 a {
-    color: #4A7023;
+    color: #458B00;
     text-decoration: none;
 }
 
@@ -64,13 +70,14 @@ a:hover {
 }
 
 a:visited {
-    color: #458B00;
+    color: #4A7023;
 }
 
 main {
     max-width: 100%;
     width: 1170px;
     padding: 50px;
+    padding-bottom: 140px;
     margin: auto;
     word-wrap: break-word;
 }
@@ -112,6 +119,27 @@ img#sunrise {
     right: 20px;
     width: 30px;
     cursor: pointer;
+}
+
+footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#footer {
+    display: inline-block;
+    border-top: 1px solid #20202020;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+}
+
+body.night #footer {
+    border-color: #fbf1c720;
 }
 
 /* Tooltip container */
@@ -258,6 +286,11 @@ ul.posts li + li {
 
     #postDate {
         margin-top: 10px;
+    }
+
+    #footer {
+        padding-left: 100px;
+        padding-right: 100px;
     }
 }
 

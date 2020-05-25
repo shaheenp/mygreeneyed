@@ -2,41 +2,42 @@
 <html lang="en-us">
 {% include head.html %}
 <body>
-    {% include nav.html %}
-    <main>
-        <div class="post-header">
-            <span>
-                <a href="{{ "." | relative_url }}">Home</a>
-                /
-                {% assign family = site.pages | where: "title", page.family | first %}
-                <a href="{{ family.url | relative_url }}">{{ family.title }}</a>
-                /
-                <span class="italic">{{ page.title }}</span>{% if page.commonname %} ({{ page.commonname }}){% endif %}
-            </span>
-        </div>
-        <div class="column-container">
-            {% assign c = content | strip %}
-            {% if c != empty %}
-            <div>
-                {{ c }}
+    <div id="container">
+        <main>
+            <div class="post-header">
+                <span>
+                    <a href="{{ "." | relative_url }}">Home</a>
+                    /
+                    {% assign family = site.pages | where: "title", page.family | first %}
+                    <a href="{{ family.url | relative_url }}">{{ family.title }}</a>
+                    /
+                    <span class="italic">{{ page.title }}</span>{% if page.commonname %} ({{ page.commonname }}){% endif %}
+                </span>
             </div>
-            {% endif %}
-            {% assign species = site.pages | where: "family", page.family | where: "genus", page.title %}
-            {% if species[0] %}
-            <div>
-                <p>Species:</p>
-                <ul>
-                {% for s in species %}
-                    <li>
-                        <a href="{{ s.url | relative_url}}">
-                            <span class="italic">{{ s.title }}</span>{% if s.commonname %} ({{ s.commonname }}){% endif %}
-                        </a>
-                    </li>
-                {% endfor %}
+            <div class="column-container">
+                {% assign c = content | strip %}
+                {% if c != empty %}
+                <div>
+                    {{ c }}
+                </div>
+                {% endif %}
+                {% assign species = site.pages | where: "family", page.family | where: "genus", page.title %}
+                {% if species[0] %}
+                <div>
+                    <p>Species:</p>
+                    <ul>
+                    {% for s in species %}
+                        <li>
+                            <a href="{{ s.url | relative_url}}">
+                                <span class="italic">{{ s.title }}</span>{% if s.commonname %} ({{ s.commonname }}){% endif %}
+                            </a>
+                        </li>
+                    {% endfor %}
+                </div>
+                {% endif %}
             </div>
-            {% endif %}
-        </div>
-    </main>
-    {% include footer.html %}
+        </main>
+        {% include footer.html %}
+    </div>
 </body>
 </html>

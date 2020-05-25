@@ -2,40 +2,51 @@
 <html lang="en-us">
 {% include head.html %}
 <body>
-    {% include nav.html %}
-    <main>
-        <div class="post-header">
-            <span>
-                <a href="{{ "." | relative_url }}">Home</a>
-                /
-                {% assign family = site.pages | where: "title", page.family | first %}
-                <a href="{{ family.url | relative_url }}">{{ family.title }}</a>
-                /
-                {% assign genus = site.pages | where: "title", page.genus | where: "family", page.family | first %}
-                <a class="italic" href="{{ genus.url | relative_url }}">{{ genus.title }}</a>
-                /
-                <span class="italic">{{ page.title }}</span> {% if page.commonname %}({{ page.commonname }}){% endif %}
-            </span>
-            {% if page.date %}
-            <span id="postDate" class="faded">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>
-            {% endif %}
-        </div>
-        <div>
-            {% assign c = content %}
-            {% for term in site.terms %}
-                {% if c contains term.title %}
-                    {% capture replacetext %}
-                    <div class="tooltip">
-                        {{ term.title }}
-                        <span class="tooltiptext">{{ term.definition }}</span>
-                    </div>
-                    {% endcapture %}
-                    {% assign c = c | replace: term.title, replacetext %}
+    <div id="container">
+        <main>
+            <div class="post-header">
+                <span>
+                    <a href="{{ "." | relative_url }}">Home</a>
+                    /
+                    {% assign family = site.pages | where: "title", page.family | first %}
+                    <a href="{{ family.url | relative_url }}">{{ family.title }}</a>
+                    /
+                    {% assign genus = site.pages | where: "title", page.genus | where: "family", page.family | first %}
+                    <a class="italic" href="{{ genus.url | relative_url }}">{{ genus.title }}</a>
+                    /
+                    <span class="italic">{{ page.title }}</span> {% if page.commonname %}({{ page.commonname }}){% endif %}
+                </span>
+                {% if page.date %}
+                <span id="postDate" class="faded">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>
                 {% endif %}
-            {% endfor %}
-            {{ c }}
-        </div>
-    </main>
-    {% include footer.html %}
+            </div>
+            <div>
+                <!--
+                NOTE: This is alright... any and all words on page are replaced,
+                such as "in", words in alt attributes of images, etc. Possible
+                solution: explicitly tag words in page content when I want to have
+                definiton show up?
+                {% assign c = "" %}
+                {% assign words = content | split: " " %}
+                {% for word in words %}
+                    {% assign lookup = site.data.glossary[word] %}
+                    {% if lookup %}
+                        {% capture c %}
+                        {{ c }} <span class="tooltip">
+                            {{ word }}
+                            <span class="tooltiptext">{{ lookup | slice: 0, 80 }}</span>
+                        </span>
+                        {% endcapture %}
+                    {% else %}
+                        {% capture c %}{{ c }} {{ word }}{% endcapture %}
+                    {% endif %}
+                {% endfor %}
+                {{ c }}
+                -->
+                {{ content }}
+            </div>
+        </main>
+        {% include footer.html %}
+    </div>
 </body>
 </html>
