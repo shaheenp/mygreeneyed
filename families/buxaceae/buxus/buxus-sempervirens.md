@@ -60,7 +60,7 @@ Ecology & Adaptations:
     - usually in understory of forests of larger trees, most commonly associated with European beech (*Fagus sylvatica*) forests, but also sometimes in open dry montane scrub, particularly in the Mediterranean region
     - typically grows on soils derived from chalk, limestone
   - chemical compounds (alkaloids) in leaves protect against microbial infection and herbivory
-  - drought tolerant –- leathery leaves help retain water
+  - drought tolerant -- leathery leaves help retain water
   - evergreen leaves help preserve nutrients in low- nutrient soils
   - leaves accumulate red carotenoids to maintain protection from solar radiation, while green chlorophyll decreases during winter acclimation
 

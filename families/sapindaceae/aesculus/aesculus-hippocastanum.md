@@ -26,7 +26,7 @@ Leaves:
 <a title="Elektryczne jabłko / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Aesculus-hippocastanum-sectorial-chimera.JPG"><img width="512" alt="Aesculus-hippocastanum-sectorial-chimera" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aesculus-hippocastanum-sectorial-chimera.JPG/512px-Aesculus-hippocastanum-sectorial-chimera.JPG"></a>
 
 Flowers:
-  - inflorescence –- terminal upright panicles
+  - inflorescence -- terminal upright panicles
   - white with yellow spots (yellow changes to pink after pollination)
   - male flowers at top of panicle, with hermaphrodite flowers below
   - in hermaphrodite flowers, stigma mature before anthers
@@ -78,7 +78,7 @@ Ecology & Adaptations:
     - anthers secrete lipid droplets that may act as food bodies
     - pollinators are attracted to flowers by yellow floral guide spots on the petals, which turn to red, and nectar and scent productions are greatly reduced or stopped after flower is pollinated
     - large amount of pollen makes wind pollination viable
-  - seed production -– large quantities every 2 years in native region
+  - seed production -- large quantities every 2 years in native region
   - seed dispersal:
     - via rodents, including squirrels that carry them to caches (storage piles)
     - gravity and moisture result in consistent occurrence of horse‐chestnut along mountain streams and rivulets in native Greek populations
@@ -92,5 +92,5 @@ Ecology & Adaptations:
     - chemical defenses also protect against fungal and bacterial infection
     - highest concentrations are in seeds
   - shade tolerance -- juvenile trees are somewhat shade tolerant, with young stems containing chlorophyll and being capable of photosynthesizing
-  - succession -– dense canopy of mature tree castes deep shade late into the growing season and gives this species a competitive advantage in its native region and open woodlands it invades outside its native region
+  - succession -- dense canopy of mature tree castes deep shade late into the growing season and gives this species a competitive advantage in its native region and open woodlands it invades outside its native region
   - mycorrhizal fungi on root tips aid nutrient and water uptake

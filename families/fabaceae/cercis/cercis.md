@@ -75,9 +75,9 @@ Ecology & Adaptations:
       - germination is favored by fire, which cracks the seed coat and generates the heat needed to stimulate germination
       - adapted to prolonged periods of dryness and cold and require special pretreatment to germinate, owing to an impervious seed coat plus a dormant embryo
     - seed dispersal by wind, birds, and animals
-    - fire adapted -– see vegetative reproduction and seed germination
+    - fire adapted -- see vegetative reproduction and seed germination
     - adapted to low-nutrient conditions by hosting N-fixing bacteria in root nodules
-    - drought tolerance –- reduces net photosynthesis and stomatal conductance when water is limited, which reduces water demand and water loss
+    - drought tolerance -- reduces net photosynthesis and stomatal conductance when water is limited, which reduces water demand and water loss
     - flood tolerance:
       - able to survive flooding for periods between 1 to 3 months during the growing season
       - root systems may produce few new roots or will be dormant during the flooded period

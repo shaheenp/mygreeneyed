@@ -75,7 +75,7 @@ Ecology & Adaptations:
   - succession:
     - first conifer to establish on drier sites
     - very long-lived species, so 1,000 years may pass before a shade-tolerant species overcomes this pioneer
-  - herbivore defense – chemical compounds, such as tannins and terpines, in leaves
+  - herbivore defense -- chemical compounds, such as tannins and terpines, in leaves
   - wildlife:
     - seeds are important food sources for small mammals (voles, chipmunks) and songbirds (sparrows, finches)
     - Douglas squirrels also eat pollen cones, inner bark, and young needles

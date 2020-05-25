@@ -56,8 +56,8 @@ Ecology & Adaptations:
   - pollination by wind
   - seed dispersal of common juniper - gravity, water, mammals, and especially birds (such as waxwings)
     - digestive (acidic) processes do not harm most juniper seeds and may enhance germination
-  - herbivore/microbial defense -– compounds such as terpenoids and volatile oils deter herbivory by mule deer and microbial infection, though leaves are susceptible to rust and several borers and beetles
-  - wildlife -– many bird species nest or roost in foliage
+  - herbivore/microbial defense -- compounds such as terpenoids and volatile oils deter herbivory by mule deer and microbial infection, though leaves are susceptible to rust and several borers and beetles
+  - wildlife -- many bird species nest or roost in foliage
   - fire resistance:
     - resistant when mature, when they develop thicker bark and a more open crown, allowing them to survive surface fires if the low, spreading branches do not carry fire to the crown
     - volatile oils makes younger plants more flammable

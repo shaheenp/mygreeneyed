@@ -9,7 +9,7 @@ discovery: true
 date: 2020-04-20
 ---
 
-Observed location: Ravenna Park, Seattle, WA – forest understory
+Observed location: Ravenna Park, Seattle, WA -- forest understory
 
 Native range: Southern Europe in woodlands
 

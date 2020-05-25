@@ -20,7 +20,7 @@ Leaves:
   - needle-like
   - singly-attached
   - green
-  - short (~1/4–1/2")
+  - short (~1/4--1/2")
 
 Male cones:
   - pinkish-purple

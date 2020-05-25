@@ -6,10 +6,12 @@ commonname: firs
 family: Pinaceae
 ---
 
+*abies* -- Latin name for European fir described by Piny (author of *Natural History*, an encyclopedic work of uneven accuracy that was an authority on scientific matters up to the Middle Ages) around 77 A.D.
+
 Leaves:
   - needle-like
   - flat
-  - 3/4–2" long
+  - 3/4--2" long
   - white stomatal bands, usually on lower surface
   - no petiole
   - spirally arranged or 2-ranked

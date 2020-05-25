@@ -80,4 +80,4 @@ Ecology & Adaptations:
     - this vegetative regeneration compensates for low seedling survival (small seeds have difficulty penetrating litter layer, so establish in bare substrate of alluvial flats but cannot often survive there due to flooding)
     - re-sprouting also occurs as the tree ages, resulting in trees that can be over 200 years old
   - cold tolerance -- tolerates sub-freezing temperatures (down to -40ºC) at high elevations by producing substances, such as flavonol glycosides and gallotannins, that decrease freezing point and prevent ice-formation in xylem cells that transport water
-  - herbivory defense –- tannins in leaves and bark deter herbivores
+  - herbivory defense -- tannins in leaves and bark deter herbivores

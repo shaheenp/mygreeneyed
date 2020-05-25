@@ -12,7 +12,7 @@ Native range: N. Hemisphere
 
 Leaves:
   - needle-like, narrow, stiff
-  - 0.5"--1.5" long
+  - 0.5--1.5" long
   - often 4 angled with stomata on all sides
   - spirally arranged
   - usually very sharp to the touch
@@ -28,7 +28,7 @@ Cones:
     - many rounded, pointed overlapping scales
     - often very thin and "papery"
     - "torn" apex
-    - 1"--6" length
+    - 1--6" length
     - seeds have single long wing
 
 Other notes:

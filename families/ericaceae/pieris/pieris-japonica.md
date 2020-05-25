@@ -7,7 +7,7 @@ family: Ericaceae
 genus: Pieris
 ---
 
-*pieris* -- named in 1834 by David Don (1799–1841) after the Pierides or nine muses (inspirational goddesses of literature, art, and sciences) of Greek mythology, who lived in Pieris, Northern Greece; Don was a prolific Scottish botanist, whose father was curator of the Royal Botanic Garden in Edinburgh
+*pieris* -- named in 1834 by David Don (1799--1841) after the Pierides or nine muses (inspirational goddesses of literature, art, and sciences) of Greek mythology, who lived in Pieris, Northern Greece; Don was a prolific Scottish botanist, whose father was curator of the Royal Botanic Garden in Edinburgh
 
 *japonica* -- from Japan, where the species was first collected and described by Swedish physician Carl Thunberg, a pupil of Linneas, while working for the Dutch East India Company in Japan
 
@@ -30,7 +30,7 @@ Leaves:
 
 Flowers:
   - pendulous inflorescence (panicles/branched racemes)
-  - 2.5–5" long
+  - 2.5--5" long
   - flowers urn- or bell-shaped, white
   - 5 sepals & petals, fused
   - 10 stamens
@@ -42,7 +42,7 @@ Fruit:
   - dry capsules
 
 Other characteristics:
-  - shrub to 8–9 ft.
+  - shrub to 8--9 ft.
   - evergreen
   - flowers early in spring
   - new stem/leaf growth orange to red (some cultivars are selected for this)

@@ -51,7 +51,7 @@ Relevant info:
 Ecology & Adaptations:
   - both sides of the Cascades in WA, but chiefly on the west side
   - Alaska south to CA, east to Alberta & ID
-  - moist woods and swamps in the lower mountains (20–1300 m)
+  - moist woods and swamps in the lower mountains (20--1300 m)
   - wet, somewhat open places (stream-side thickets, edges of moist woods, coastal marshes, meadows, margins of lakes and streams)
   - occasionally on drier, shrubby sites, at low to middle elevations
   - well adapted to shade -- shade leaves are relatively thin, which maximizes light capture area while minimizing investment in photosynthesizing structure

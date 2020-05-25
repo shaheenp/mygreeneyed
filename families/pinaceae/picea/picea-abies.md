@@ -55,7 +55,7 @@ Relevant info:
 
 Ecology & Adaptations:
   - native to N, C & E Europe outside permafrost areas, south to N Greece and W to the Massif Central, France
-  - at southern edge of range, only in mountains above 400–500 m.
+  - at southern edge of range, only in mountains above 400--500 m.
   - occurs in pure and mixed stands (both mixed conifer and mixed conifer-deciduous)
   - mature Norway spruce forests typically have very little ground layer vegetation
   - in Europe, red deer strip the bark of Norway spruce
@@ -72,5 +72,5 @@ Ecology & Adaptations:
     - sun needles are thicker than shade leaves
     - high nitrogen content of shade leaves indicates cost of light interception and is thought to improve light absorption per needle mass of shaded needles
     - it appears that adaptation of needle morphology to irradiance during the primary growth period largely determines the fate of needles during subsequent tree growth and development
-  - seedlings & drought –- during dry summers, spruce litter buildup can create manganese concentrations that prevent regeneration of Norway spruce, a possible means of controlling establishment of seedlings during unfavorable conditions
+  - seedlings & drought -- during dry summers, spruce litter buildup can create manganese concentrations that prevent regeneration of Norway spruce, a possible means of controlling establishment of seedlings during unfavorable conditions
   - frost tolerance -- in northern Scandinavia, frost hardening (secretion of substances that harden to form a protective cuticle) occurs in Sept and is lost quickly in early May

@@ -56,5 +56,5 @@ Ecology & Adaptations:
   - vegetative reproduction -- establishes beneath closed canopy by seed or layering
     - layering enables Pacific yew to quickly expand into gaps created as nearby senescent conifers fall
     - sprouts generally develop from broken stumps
-  - herbivory defense –- multiple compounds (terpenes, phenyl-butanoids, taxane) in needles deter herbivory and prevent microbial infection
+  - herbivory defense -- multiple compounds (terpenes, phenyl-butanoids, taxane) in needles deter herbivory and prevent microbial infection
   - sensitive to fire, even low-intensity fire, due to thin bark

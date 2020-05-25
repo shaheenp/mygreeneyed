@@ -56,7 +56,7 @@ Relevant info:
 
 Ecology & Adaptations:
   - native origin obscure, probably China or Japan, but now widely cultivated in China
-  - shade tolerant –- evergreen leaves permit light absorption all year round
+  - shade tolerant -- evergreen leaves permit light absorption all year round
   - drought tolerant:
     - thick, leathery leaves retain moisture
     - torus-bearing (impermeable layer consisting of thick cell wall), pitted tracheary elements extend throughout the vasculature and help maintain pressure within the vessel during drought stress or adjacent tissue damage

@@ -80,7 +80,7 @@ Ecology & Adaptations:
     - drought tolerance:
       - lowered water potential in tissues (via concentration of compounds) prevents water loss
       - dense mats of fibrous roots efficiently absorb available water
-    - wind tolerance –- in exposed areas, stems are prostrate (low- growing, with branches lying on ground and only new growth growing erect)
+    - wind tolerance -- in exposed areas, stems are prostrate (low- growing, with branches lying on ground and only new growth growing erect)
     - frost tolerance -- wide-angle branching of divaricate plants may provide a ‘frost-screen,’ protecting interior leaves from frost damage
     - tolerates low-nutrient conditions:
       - evergreen leaves prolong value of investment in photosynthesizing structures

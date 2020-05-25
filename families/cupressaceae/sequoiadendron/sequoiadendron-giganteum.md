@@ -71,11 +71,11 @@ Ecology & Adaptations:
     - via gravity and insect and rodent activity
     - cones also fall to ground and may open over several years or two decades
     - >300,000 seeds released from a single tree
-  - seed germination –- seeds dropped just before the first snow or just as the snow melts may have the best chance of germinating and becoming successfully established
+  - seed germination -- seeds dropped just before the first snow or just as the snow melts may have the best chance of germinating and becoming successfully established
   - fire-resistance:
     - deeply furrowed bark can be up to 60 cm thick and is fire-resistant
     - heat from fire causes cones to open, dispersing their seeds on the wind
     - post-fire, seedlings establish in layer of ash in cleared areas
-  - herbivore & microbial protection –- compounds in wood and leaves include tannins (including antimicrobial catechin), terpenes, resins, waxes
-  - nutrient absorption –- mycorrhizal association aids nutrient and water uptake in forest environments with a lot of competition for resources
+  - herbivore & microbial protection -- compounds in wood and leaves include tannins (including antimicrobial catechin), terpenes, resins, waxes
+  - nutrient absorption -- mycorrhizal association aids nutrient and water uptake in forest environments with a lot of competition for resources
   - can withstand drier conditions than *[Sequoia sempervirens](../../sequoia/sequoia-sempervirens/)*

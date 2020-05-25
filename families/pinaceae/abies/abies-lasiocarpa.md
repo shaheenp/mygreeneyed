@@ -23,7 +23,7 @@ Leaves:
   - grayish or blueish green
   - mostly straight
   - young twigs greenish
-  - stomatal bands on both sides -- 1 on upper (3–6 rows at midrib), 2 lower
+  - stomatal bands on both sides -- 1 on upper (3--6 rows at midrib), 2 lower
   - circular scar on twig when leaves fall
 
 <a title="Walter Siegmund / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Abies_lasiocarpa_7108.JPG"><img width="512" alt="Abies lasiocarpa 7108" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Abies_lasiocarpa_7108.JPG/512px-Abies_lasiocarpa_7108.JPG"></a>
@@ -34,7 +34,7 @@ Cones:
     - upright
     - deciduous
     - purple
-    - 2–4" long
+    - 2--4" long
     - takes two years (growing seasons) to develop
     - disintegrate on tree, leaving only central core
     - rare; spreading occurs primarily through layering
@@ -58,7 +58,7 @@ Other characteristics:
 Ecology & Adaptations:
   - most widespread fir in North America
   - at subalpine elevations (and stunted tree at highest elevations) but also near sea level in cold-air drainages of major rivers (crowned by ice fields) that cut through Coast Range in SE Alaska/North Coast B.C.
-  - west of Cascade Mountains, mostly found between 4,000 and 6,500 ft. (1,200–2,000 m.)
+  - west of Cascade Mountains, mostly found between 4,000 and 6,500 ft. (1,200--2,000 m.)
   - most abundant near timberline
   - at tree-line, commonly in krumholtz form (i.e., crooked, twisted as a result of exposure to fierce freezing winds)
   - in Cascades on eat and west slopes, and in eastern Olympic Mountains on dry sites

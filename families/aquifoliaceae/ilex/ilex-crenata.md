@@ -23,8 +23,8 @@ Leaves:
   - elliptic or obovate to oblong-lanceolate
   - small (1/2" - 1" long)
   - mostly flat
-  - upper surface –- dark green
-  - lower surface –- dotted with translucent or blackish glands; glabrous
+  - upper surface -- dark green
+  - lower surface -- dotted with translucent or blackish glands; glabrous
   - short petiole
 
 <a title="KENPEI / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)" href="https://commons.wikimedia.org/wiki/File:Ilex_Crenata5.jpg"><img width="512" alt="Ilex Crenata5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ilex_Crenata5.jpg/512px-Ilex_Crenata5.jpg"></a>
@@ -55,4 +55,4 @@ Ecology & Adaptations:
   - shade tolerant understory species
   - drought tolerance due to waxy leaf coating (produced by glands) that helps prevent water loss
   - mycorrhiza associated with roots that aid nutrient uptake and enable nutrient deficiency tolerance
-  - seed dispersal –- animals by eating fruit & excreting seeds
+  - seed dispersal -- animals by eating fruit & excreting seeds

@@ -9,7 +9,7 @@ genus: Viburnum
 
 *viburnum* -- "snowball" (Latin) referring to the large domed clusters of flowers
 
-*davidii* -- Jean Pierre Armand David (1826–1900), a Jesuit French missionary, who traveled to China initially to convert people to Catholicism but who ultimately focused on the natural history (plant and animal life) of the region and identified this species for western culture
+*davidii* -- Jean Pierre Armand David (1826--1900), a Jesuit French missionary, who traveled to China initially to convert people to Catholicism but who ultimately focused on the natural history (plant and animal life) of the region and identified this species for western culture
 
 Native range: Tibet (often listed as W. China)
 
@@ -19,8 +19,8 @@ Leaves:
   - opposite
   - simple
   - elliptic to oval
-  - 2–6" long
-  - 1–2.5" wide
+  - 2--6" long
+  - 1--2.5" wide
   - distinctly 3-veined
   - secondary veins like ladder between primary veins
   - toothed towards apex
@@ -33,7 +33,7 @@ Leaves:
 
 Flowers:
   - dioecious
-  - inflorescence -- flat umbel-like, 2–3" wide
+  - inflorescence -- flat umbel-like, 2--3" wide
   - no sterile outer flowers
   - radial (actinomorphic)
   - 5-lobed corolla
@@ -49,7 +49,7 @@ Fruit:
 <a title="Kris Miller from Issaquah / CC BY (https://creativecommons.org/licenses/by/2.0)" href="https://commons.wikimedia.org/wiki/File:Viburnum_Berries.jpg"><img width="512" alt="Viburnum Berries" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viburnum_Berries.jpg/512px-Viburnum_Berries.jpg"></a>
 
 Other characteristics:
-  - small shrub to 3–4 ft.
+  - small shrub to 3--4 ft.
   - evergreen
   - warty branchlets
 

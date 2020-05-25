@@ -56,7 +56,7 @@ Ecology & Adaptations:
   - native to woodland volcanic slopes up to 6,000 feet in elevation in the Andes Mountains in Chile and Argentina, including dry sites at high elevations or on thin rocky substrates
   - in its small home range, soils are derived from layers of volcanic ash, some <2,000 years old, emanating from a chain of recently active andesitic (igneous rock) volcanoes
   - summers are very dry, with most precipitation falling during colder months
-  - vegetative reproduction –- suckering from roots
+  - vegetative reproduction -- suckering from roots
   - pollination by wind
   - seed dispersal:
     - large seeds are not dispersed far, but are shade-tolerant and able to establish beneath parent trees

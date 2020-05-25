@@ -9,10 +9,10 @@ genus: Magnolia
 
 **Also known as: *Magnolia kobus var. stellata***
 
-*magnolia* -- Pierre Magnol, French botanist (1638–1715), professor and director of the botanical garden at Montpellier, France
+*magnolia* -- Pierre Magnol, French botanist (1638--1715), professor and director of the botanical garden at Montpellier, France
   - in 1676, he published a flora of the region that contained 1,354 species
   - first to use the concept of plant families, based on morphological characteristics
-  - in 1703, Charles Plumier (1646–1704) applied the name *[Magnolia](../)*, to a flowering tree from Martinique
+  - in 1703, Charles Plumier (1646--1704) applied the name *[Magnolia](../)*, to a flowering tree from Martinique
 
 *stellata* -- star-like, referring to the flowers
 
@@ -34,7 +34,7 @@ Flowers:
   - solitary & terminal
   - radial
   - perfect
-  - lots of tepals (8–25) that are 3-5" long
+  - lots of tepals (8--25) that are 3-5" long
   - tepals reflexed back
   - many stamens, spirally arranged
 

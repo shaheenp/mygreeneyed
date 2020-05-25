@@ -24,7 +24,7 @@ Leaves:
   - parallel veins assymmetric at base (all the way up on many)
   - secondary veins go all the way to the margins
   - deciduous stipules
-  - ~5–6" across
+  - ~5--6" across
 
 <a title="Jean-Pol GRANDMONT / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Hamamelis_molis_JPG1Fub.jpg"><img width="512" alt="Hamamelis molis JPG1Fub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hamamelis_molis_JPG1Fub.jpg/512px-Hamamelis_molis_JPG1Fub.jpg"></a>
 
@@ -71,7 +71,7 @@ Ecology & Adaptations:
   - vegetative reproduction: spreads vegetatively via suckers (stems produced from roots) or stolons (modified stems growing horizontally on the ground)
   - pollination: flowers are pollinated by winter-flying noctuid moths
   - seed dispersal:
-    - each (dehiscent) seed capsule splits open in the growing season of the following year, exploding the 1–2 black seeds within up to 30 ft
+    - each (dehiscent) seed capsule splits open in the growing season of the following year, exploding the 1--2 black seeds within up to 30 ft
     - some dispersal by birds
   - wildlife:
     - wild turkeys eat the seeds of this plant, and white-tailed deer browse the leaves

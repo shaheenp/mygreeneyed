@@ -56,9 +56,9 @@ Ecology & Adaptations:
   - widely distributed throughout Washington, southern British Columbia south to Northern California, east to northern Idaho and western Montana
   - found in sagebrush slopes and open woods
   - drier, more open, (often rocky) sites than *[M. nervosa](../mahonia-nervosa.md)*
-  - resistant to summer drought –- waxy coating retains water
+  - resistant to summer drought -- waxy coating retains water
   - tolerant of nutrient-poor soils -- evergreen leaves conserve resources and preserve investment in photosynthetic tissues
   - reproduces vegetatively via stolons only occasionally
   - pollination by insects and birds
   - seed dispersal by birds that consume food
-  - herbivory defense –- thick, waxy spiny leaves deter herbivores
+  - herbivory defense -- thick, waxy spiny leaves deter herbivores

@@ -15,7 +15,7 @@ Native range: Europe, Africa, W. and C. Asia
 <a title="Bjoertvedt / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Erica_cinerea_IMG_4875_Purpurlyng_kung%C3%A4lv_bergfeltska.jpg"><img width="512" alt="Erica cinerea IMG 4875 Purpurlyng kungälv bergfeltska" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Erica_cinerea_IMG_4875_Purpurlyng_kung%C3%A4lv_bergfeltska.jpg/512px-Erica_cinerea_IMG_4875_Purpurlyng_kung%C3%A4lv_bergfeltska.jpg"></a>
 
 Leaves:
-  - alternate or in whorls of 3–6
+  - alternate or in whorls of 3--6
   - small
   - linear
   - green

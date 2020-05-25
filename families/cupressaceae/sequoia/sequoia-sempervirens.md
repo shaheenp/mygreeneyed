@@ -38,7 +38,7 @@ Cones:
     - matures in one season
   - pollen cone:
     - nearly globose to ovoid
-    - 2–5 mm
+    - 2--5 mm
     - borne singly on short terminal or axillary stalks
   - seeds are winged but are not distributed by wind far from parent tree.
 
@@ -85,8 +85,8 @@ Ecology & Adaptations:
     - great height also helps tree “escape” fires of low and moderate intensity
     - trunk re-sprouts from stumps following fire
     - epicormic buds (dormant beneath bark until higher branch is destroyed) enable the tree to produce new branches after destruction by fire or windstorm
-  - herbivore & pathogen defense – compounds (terpines and sabinene) in leaves and wood deter herbivores and protect against fungal infection
+  - herbivore & pathogen defense -- compounds (terpines and sabinene) in leaves and wood deter herbivores and protect against fungal infection
   - canopy community:
     - multiple trunks that form 60 m above the ground provide structure for complex plant/animal/microbial interactions
     - these mini ecosystems provide habitat for mammals, birds, amphibians and arthropods
-  - nutrient absorption –- mycorrhizal association aids nutrient and water uptake in forest environments with a lot of competition for resources
+  - nutrient absorption -- mycorrhizal association aids nutrient and water uptake in forest environments with a lot of competition for resources
