@@ -7,8 +7,6 @@ family: Asteraceae
 genus: Achillea
 ---
 
-*Achillea* -- refers to Achilles, hero of the Trojan Wars in Greek mythology, who used the plant medicinally to stop bleeding and heal soldiers' wounds
-
 *millefolium* -- "thousand-leaved" in reference to the highly dissected foliage
 
 Native range: temperate regions of N. Hemisphere in Asia, Europe; native to and naturalized in North America
