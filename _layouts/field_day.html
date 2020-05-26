@@ -20,7 +20,7 @@
                         {% capture prevFieldDay %}Field Day {{ prevNum }}{% endcapture %}
                         {% assign prevFieldDayPage = site.pages | where: "title", prevFieldDay | first %}
                         {% if prevFieldDayPage %}
-                        <a href="{{ prevFieldDayPage.url | relative_url }}">< {{ prevFieldDayPage.title }}</a>
+                        <a href="{{ prevFieldDayPage.url | relative_url }}">&lsaquo; {{ prevFieldDayPage.title }}</a>
                         {% endif %}
                     </span>
                     <span>
@@ -28,7 +28,7 @@
                         {% capture nextFieldDay %}Field Day {{ nextNum }}{% endcapture %}
                         {% assign nextFieldDayPage = site.pages | where: "title", nextFieldDay | first %}
                         {% if nextFieldDayPage %}
-                        <a href="{{ nextFieldDayPage.url | relative_url }}">{{ nextFieldDayPage.title }} ></a>
+                        <a href="{{ nextFieldDayPage.url | relative_url }}">{{ nextFieldDayPage.title }} &rsaquo;</a>
                         {% endif %}
                     </span>
                 </div>
