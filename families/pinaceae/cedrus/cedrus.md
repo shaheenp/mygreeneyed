@@ -6,6 +6,8 @@ commonname: true cedars
 family: Pinaceae
 ---
 
+*Cedrus* -- cedar (Latin)
+
 Native range: Mediterranean and W. Himalayas
 
 Leaves:

@@ -11,6 +11,8 @@ genus: Betula
 
 Native range: North America
 
+<a title="No machine-readable author provided. TeunSpaans assumed (based on copyright claims). / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)" href="https://commons.wikimedia.org/wiki/File:Betula_papyrifera_var._commutata_01-10-2005_14.44.22.JPG"><img width="512" alt="Betula papyrifera var. commutata 01-10-2005 14.44.22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Betula_papyrifera_var._commutata_01-10-2005_14.44.22.JPG/512px-Betula_papyrifera_var._commutata_01-10-2005_14.44.22.JPG"></a>
+
 Leaves:
   - alternate
   - simple
@@ -19,6 +21,8 @@ Leaves:
   - rounded base
   - deciduous stipules
 
+<a title="Walter Siegmund / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Betula_papyrifera_8853.JPG"><img width="512" alt="Betula papyrifera 8853" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Betula_papyrifera_8853.JPG/512px-Betula_papyrifera_8853.JPG"></a>
+
 Flowers:
   - males:
     - pendulous catkins
@@ -26,6 +30,8 @@ Flowers:
   - females:
     - short
     - 3 flowers in axils
+
+<a title="© Sue Sweeney / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)" href="https://commons.wikimedia.org/wiki/File:Winter_male_catkins_of_paper_birch.jpg"><img width="512" alt="Winter male catkins of paper birch" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Winter_male_catkins_of_paper_birch.jpg"></a>
 
 Fruit:
   - winged nut
@@ -38,6 +44,8 @@ Other characteristics:
   - bark grayish white
   - lenticels in bark
   - bark will peel in horizontal strips
+
+<a title="SriMesh / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:PaperBirchBark.jpg"><img width="512" alt="PaperBirchBark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/PaperBirchBark.jpg/512px-PaperBirchBark.jpg"></a>
 
 Relevant info:
   - maximum height is reached at 60-70 yrs

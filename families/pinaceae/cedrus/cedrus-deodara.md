@@ -7,8 +7,6 @@ family: Pinaceae
 genus: Cedrus
 ---
 
-*Cedrus* -- cedar (Latin)
-
 *deodara* -- comes from the plant's name in Northern India
 
 Native range: W. Himalayas from W. Nepal to Afghanistan
