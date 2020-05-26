@@ -51,7 +51,7 @@ Relevant info:
   - many cultivars with white to pinkish-red to red flowers
   - of concern to gardeners:
     - resistant to most insect and disease pests that affect other *[Ribes](..)* species, including aphids and currant fruit fly
-  - Archibald Menzies was first European to identify species in 1793 during his voyage with Capt. George Vancouver. But David Douglas, Scottish plant explorer, found it growing near Fort Vancouver in 1825 and introduced it into British commerce. He sent seeds back to England, and the new plants flowered in 1828 when they were two years old. The employer of Douglas’s employer, the Royal Horticultural Society, considered this new, red flowering, acquisition to justify the cost (£400) of his entire three year expedition (Coats, 1992)
+  - Archibald Menzies was first European to identify species in 1793 during his voyage with Capt. George Vancouver. But David Douglas, Scottish plant explorer, found it growing near Fort Vancouver in 1825 and introduced it into British commerce. He sent seeds back to England, and the new plants flowered in 1828 when they were two years old. The employer of Douglas's employer, the Royal Horticultural Society, considered this new, red flowering, acquisition to justify the cost (£400) of his entire three year expedition (Coats, 1992)
 
 Ecology & Adaptations:
   - west of the Cascades in Washington; British Columbia to south to California

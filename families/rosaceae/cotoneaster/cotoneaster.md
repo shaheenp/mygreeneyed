@@ -6,7 +6,7 @@ commonname:
 family: Rosaceae
 ---
 
-*Cotoneaster* -- Latin *cotoneum* meaning “quince” + *-aster* meaning “resembling”
+*Cotoneaster* -- Latin *cotoneum* meaning "quince" + *-aster* meaning "resembling"
 
 <a title="MPF / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)" href="https://commons.wikimedia.org/wiki/File:Cotoneaster_frigidus.jpg"><img width="512" alt="Cotoneaster frigidus" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cotoneaster_frigidus.jpg/512px-Cotoneaster_frigidus.jpg"></a>
 

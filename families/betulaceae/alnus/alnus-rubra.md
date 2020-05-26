@@ -16,7 +16,7 @@ Native range: Coastal N. America, Idaho
 Leaves:
   - alternate
   - simple
-  - broadly elliptic (1.5--3” wide)
+  - broadly elliptic (1.5--3" wide)
   - acute base
   - deep and doubly serrate
   - revolute at base of leaf
@@ -34,7 +34,7 @@ Flowers:
 
 Fruit:
   - wooden, cone-like
-  - small (1/2--1” long)
+  - small (1/2--1" long)
   - persist on tree over the winter
   - each cone contains up to 100 small nutlets that are wind dispersed
 

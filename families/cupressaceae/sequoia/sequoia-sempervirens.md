@@ -13,7 +13,7 @@ genus: Sequoia
 
 Native range: Coastal California and Oregon
 
-<a title="Dietmar Rabich / Wikimedia Commons / “Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1404” / CC BY-SA 4.0" href="https://commons.wikimedia.org/wiki/File:Beech_Forest_(AU),_Great_Otway_National_Park,_Californian_Redwoods_--_2019_--_1404.jpg"><img width="512" alt="Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1404" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Californian_Redwoods_--_2019_--_1404.jpg/512px-Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Californian_Redwoods_--_2019_--_1404.jpg"></a>
+<a title="Dietmar Rabich / Wikimedia Commons / "Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1404" / CC BY-SA 4.0" href="https://commons.wikimedia.org/wiki/File:Beech_Forest_(AU),_Great_Otway_National_Park,_Californian_Redwoods_--_2019_--_1404.jpg"><img width="512" alt="Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1404" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Californian_Redwoods_--_2019_--_1404.jpg/512px-Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Californian_Redwoods_--_2019_--_1404.jpg"></a>
 
 Leaves:
   - mostly linear, alternate
@@ -32,7 +32,7 @@ Cones:
   - female cone:
     - woody
     - ovoid
-    - ~ 1” long
+    - ~ 1" long
     - pendant at end of leaf twig
     - 15-20 thick wrinkled scales, peltate, spirally arranged
     - matures in one season
@@ -70,19 +70,19 @@ Ecology & Adaptations:
   - grows in alluvial soils (unconsolidated soils consisting of material eroded by water and deposited downstream or down-elevation), where it forms pure stands or occurs with *[Pseudotsuga menziesii]({{ "/pinaceae/pseudotsuga/pseudotsuga-menziesii/" | relative_url }})*, *[Chamaecyparis lawsoniana](../../chamaecyparis/chamaecyparis-lawsoniana/)*, or other local conifers
   - evergreen leaves allow photosynthesis year-round, and conical shape maximizes light absorption throughout the day and all seasons
   - vegetative reproduction:
-    - from stump sprouts or layering, so young trees receive nutrients, water and carbohydrates from “parent” trees and thereby gain a competitive advantage over other species, even in the deep shade of older trees
+    - from stump sprouts or layering, so young trees receive nutrients, water and carbohydrates from "parent" trees and thereby gain a competitive advantage over other species, even in the deep shade of older trees
     - results in clumps of clonal stems growing in close proximity
   - pollination by wind
   - very shade tolerant:
     - high photosynthetic capacity at low light levels
     - able to self-replace within forest stands
   - tolerates sedimentation -- in a floodplain environment where sediment deposition of up to 75 cm can occur, develops new and higher lateral root system from buried buds on trunk
-  - “Fog water” capture:
+  - "Fog water" capture:
     - water in air condenses on leaves and drips to the ground, where the roots can absorb it
     - extra water may explain why the trees can grow so big
   - fire resistant & wind resilient:
     - thick bark protects living vascular tissue
-    - great height also helps tree “escape” fires of low and moderate intensity
+    - great height also helps tree "escape" fires of low and moderate intensity
     - trunk re-sprouts from stumps following fire
     - epicormic buds (dormant beneath bark until higher branch is destroyed) enable the tree to produce new branches after destruction by fire or windstorm
   - herbivore & pathogen defense -- compounds (terpines and sabinene) in leaves and wood deter herbivores and protect against fungal infection

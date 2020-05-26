@@ -26,7 +26,7 @@ Cones:
   - female cones:
     - 2-3" long
     - ~1.5 in. diameter
-    - ovoid w/ peltate (shield shaped) “wrinkled” cone scales
+    - ovoid w/ peltate (shield shaped) "wrinkled" cone scales
     - very hard and woody
     - cone upright first year, pendulous second year
     - take at least two years to ripen

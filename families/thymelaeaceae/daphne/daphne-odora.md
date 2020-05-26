@@ -49,9 +49,9 @@ Other characteristics:
 
 Relevant info:
   - poisonous
-  - ‘Marginata’ is a popular cultivar
+  - 'Marginata' is a popular cultivar
     - leaves edged with white or yellow
-  - close cousin *Daphne laureola* (spurge laurel) is invasive in OR, BC & WA, including UW’s Union Bay Natural Area, where students recently removed it from restoration sites
+  - close cousin *Daphne laureola* (spurge laurel) is invasive in OR, BC & WA, including UW's Union Bay Natural Area, where students recently removed it from restoration sites
   - described in Chinese literature and pharmacopoeia for a thousand years and was depicted on a Japanese scroll in 1309
 
 Ecology & Adaptations:

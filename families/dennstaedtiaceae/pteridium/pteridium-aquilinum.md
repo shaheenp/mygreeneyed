@@ -56,7 +56,7 @@ Other characteristics:
     - can grow to 20' long or more
 
 Relevant info:
-  - world’s most widespread fern, which may be explained in part by its many defenses
+  - world's most widespread fern, which may be explained in part by its many defenses
 
 Ecology & Adaptations:
   - widely distributed throughout Washington

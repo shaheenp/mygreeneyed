@@ -56,7 +56,7 @@ Ecology & Adaptations:
   - seed dispersal -- fruits consumed, acid-washed and deposited by birds, such as quail, grouse, thrushes and other songbirds, and small mammals
   - wildlife:
     - food for birds and small mammals
-    - host for the larva of certain butterflies, including Gillett’s checkermallow, which hatch from eggs deposited in leaves exposed to the greatest amount of sunlight
+    - host for the larva of certain butterflies, including Gillett's checkermallow, which hatch from eggs deposited in leaves exposed to the greatest amount of sunlight
   - herbivory and microbial defense:
     - leaves and stems contain bitter-tasting compounds that deter herbivores and defend against microbial attack
     - these tissues are generally not considered palatable to large mammals, but elk, moose, mountain goats, and deer browse the leaves or twigs in some areas

@@ -33,7 +33,7 @@ Flowers:
 Fruit:
   - aggregate of drupelets
   - ranging in color from yellow to red
-  - “Salmon berry” color ranges from salmon-colored to pink when ripe
+  - "Salmon berry" color ranges from salmon-colored to pink when ripe
 
 <a title="Walter Siegmund / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Rubus_spectabilis_9613.JPG"><img width="512" alt="Rubus spectabilis 9613" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rubus_spectabilis_9613.JPG/512px-Rubus_spectabilis_9613.JPG"></a>
 

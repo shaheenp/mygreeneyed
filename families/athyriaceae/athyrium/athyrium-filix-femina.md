@@ -57,7 +57,7 @@ Ecology & Adaptations:
   - at all elevations
   - spores dispersed by wind and water
   - vegetative reproduction via rhizomes
-  - fire tolerant -- top-killed by fire, which is typically infrequent (>200 yrs) in this fern’s habitat type, but sprouts from surviving rhizomes
+  - fire tolerant -- top-killed by fire, which is typically infrequent (>200 yrs) in this fern's habitat type, but sprouts from surviving rhizomes
   - can survive severe battering if roots are protected and in constant contact with water
   - shade tolerant -- photosynthesizes effectively at low light levels (low light saturation point)
   - adapted to low nutrient conditions -- mycorrhizae aid nutrient uptake

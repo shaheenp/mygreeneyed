@@ -47,8 +47,8 @@ Other characteristics:
 Relevant info:
   - good species for hedges
   - in China, members of *[Osmanthus](../)* flower in fall during harvest when the full moon is especially big
-    - important during the mid-Autumn festival when Chinese celebrate the full moon with traditional Taoist legends about moon goddess Chang’e and her jade rabbit, Yutu, while enjoying osmanthus cake, tea and wine
-    - young men had to study for their imperial exams each fall in hopes of “plucking the osmanthus from the Moon Palace,” as in a legend
+    - important during the mid-Autumn festival when Chinese celebrate the full moon with traditional Taoist legends about moon goddess Chang'e and her jade rabbit, Yutu, while enjoying osmanthus cake, tea and wine
+    - young men had to study for their imperial exams each fall in hopes of "plucking the osmanthus from the Moon Palace," as in a legend
 
 Ecology & Adaptations:
   - native to south central China (Guizhou, Sichuan, Yunnan)

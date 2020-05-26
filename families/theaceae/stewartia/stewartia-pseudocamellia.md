@@ -27,7 +27,7 @@ Flowers:
   - radial, perfect, solitary in leaf axils
   - paired bracts beneath sepals
   - bracts always much shorter than sepals, sometimes missing
-  - 2--2.5” across
+  - 2--2.5" across
   - 5 sepals & petals
   - many stamens
   - 5 styles

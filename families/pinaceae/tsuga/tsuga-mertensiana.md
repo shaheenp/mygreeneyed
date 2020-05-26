@@ -25,7 +25,7 @@ Leaves:
 <a title="Dcrjsr / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Mountain_hemlock_Tsuga_mertensiana_needles.jpg"><img width="512" alt="Mountain hemlock Tsuga mertensiana needles" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mountain_hemlock_Tsuga_mertensiana_needles.jpg/512px-Mountain_hemlock_Tsuga_mertensiana_needles.jpg"></a>
 
 Cones:
-  - large (2--3" [3--8 cm] long) compared to other *[Tsuga](../)* (w/ small 1/2--1” long cone)
+  - large (2--3" [3--8 cm] long) compared to other *[Tsuga](../)* (w/ small 1/2--1" long cone)
   - male cones -- bluish
   - female cones -- light to brownish purple, becoming brown at maturity
 
@@ -44,7 +44,7 @@ Relevant info:
 Ecology & Adaptations:
   - native to Alaska to California, east to Montana
   - in both Olympics and Cascades in Washington
-  - found in coastal and montane forests to alpine slopes (where it occurs in krummholz (German for ‘crooked wood’) form, i.e., stunted due to continual exposure to fierce, freezing winds)
+  - found in coastal and montane forests to alpine slopes (where it occurs in krummholz (German for 'crooked wood') form, i.e., stunted due to continual exposure to fierce, freezing winds)
   - 0--2400 m. (mostly at high altitudes but elevational range of the species varies with latitude)
   - subalpine or montane species associated with long winters and deep snowpacks
   - often occurs up to timberline and in subalpine parkland (mosaic of meadow and tree clumps)

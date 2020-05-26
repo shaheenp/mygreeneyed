@@ -61,10 +61,10 @@ Ecology & Adaptations:
     - regenerates from root crowns following stem damage or top-kill
     - cuttings of young branches (live stakes) used in wetland restoration
   - pollinated by bees (especially bumble bees), flies, and butterflies
-  - seeds are dispersed by many birds and mammals (including bears, woodrats, chipmunks and mice) that eat the fruit, which are a desirable food source because they’re high in fat and moderately high in protein
+  - seeds are dispersed by many birds and mammals (including bears, woodrats, chipmunks and mice) that eat the fruit, which are a desirable food source because they're high in fat and moderately high in protein
   - tolerant of scouring and flooding and large fluctuations in water level:
     - lenticels (pores) in bark facilitate absorption of oxygen that is transported to roots in saturated or flooded soils
-    - vegetative reproduction reduces reliance on seeds for spreading (germinating seeds can “drown” in wet conditions due to lack of oxygen)
+    - vegetative reproduction reduces reliance on seeds for spreading (germinating seeds can "drown" in wet conditions due to lack of oxygen)
   - shade tolerance:
     - shrubs growing in full sun are typically dense and compact, with many lateral branches
     - shrubs growing in shade are typically open and sprawling, with few branches, with maximizes light capture

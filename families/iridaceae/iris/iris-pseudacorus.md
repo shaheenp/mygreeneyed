@@ -58,12 +58,12 @@ Fruit:
 Other characteristics:
   - monocot
   - herbaceous perennial from short, thick rhizomes
-  - forms dense expanding clumps (3--4’ (~ to 5’) tall and to 30” wide)
+  - forms dense expanding clumps (3--4' (~ to 5') tall and to 30" wide)
   - simple, leafy flowering stem up to 1 m. tall
 
 Ecology & Adaptations:
   - native to Europe to western Siberia, Caucasus, northern Africa
-  - garden “escape” widely distributed throughout much of Washington
+  - garden "escape" widely distributed throughout much of Washington
   - widely distributed throughout much of North America in temperate climates
   - found in ditches and ponds at low elevations; forms large colonies along streams, ponds and marshes
   - rows in water to 25 cm deep, or very near water, such as lakeside muds

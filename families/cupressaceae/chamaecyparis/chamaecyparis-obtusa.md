@@ -16,9 +16,9 @@ Native range: Japan & Taiwan
 Leaves:
   - branchlets are arranged in one horizontal plane
   - scales closely appressed, of 2 sizes
-  - lateral pair much larger 1/12” long
+  - lateral pair much larger 1/12" long
   - blunt at apex
-  - white “Y” markings below (stomata)
+  - white "Y" markings below (stomata)
 
 ![Chamaecyparis obtusa branch]({{ "/img/chamaecyparis-obtusa-branch.jpg" | relative_url }} "Chamaecyparis obtusa branch - photo by Shaheen Page"){:width="512"}
 
@@ -26,13 +26,13 @@ Cones:
   - monoecious
   - males -- yellow/orange brown
   - females -- solitary, greenish-brown
-  - short stalked, globose cones 1/3--3/8” across
+  - short stalked, globose cones 1/3--3/8" across
   - 8 (10) scales
 
 <a title="Σ64 / CC BY (https://creativecommons.org/licenses/by/3.0)" href="https://commons.wikimedia.org/wiki/File:Chamaecyparis_obtusa_02.jpg"><img width="512" alt="Chamaecyparis obtusa 02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chamaecyparis_obtusa_02.jpg/512px-Chamaecyparis_obtusa_02.jpg"></a>
 
 Other characteristics:
-  - ultimately 50--75’(to 40 m.) tall to 10’ (3 m.) diameter, 10--20’ (3--6 m.) spread
+  - ultimately 50--75'(to 40 m.) tall to 10' (3 m.) diameter, 10--20' (3--6 m.) spread
   - bark reddish brown, shedding in strips
   - pyramidal shape
   - spreading branches with flattened horizontal branchlets that droop at the ends

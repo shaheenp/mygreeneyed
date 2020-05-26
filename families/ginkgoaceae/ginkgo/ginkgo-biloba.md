@@ -62,7 +62,7 @@ Ecology & Adaptations:
   - introduced to north-central China, South Korea and Japan
   - scattered in broadleaved forests, in moist, deep, sandy soils in full sunlight; in valleys on acidic, well-drained, yellow loess (pH = 5--5.5)
   - 300--1,100 (1,300) m.
-  - complex phenology (timing) of sexual reproduction cycle may constrain the species’ ability to migrate, independently of humans, into cold-temperate regions with short growing seasons, and probably accounts for its limited, warm-temperate distribution as a wild or semi- wild tree in the mountains of central China
+  - complex phenology (timing) of sexual reproduction cycle may constrain the species' ability to migrate, independently of humans, into cold-temperate regions with short growing seasons, and probably accounts for its limited, warm-temperate distribution as a wild or semi- wild tree in the mountains of central China
   - pollination by wind
   - sexual reproduction:
     - many aspects are influenced by temperature, which varies with latitude and elevation across species distribution; trees typically reach sexual maturity at 20 yrs

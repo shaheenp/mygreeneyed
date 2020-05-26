@@ -70,4 +70,4 @@ Ecology & Adaptations:
   - pollination:
     - by several genera of bees
     - bracts attract pollinators and protect the pollen from rain damage
-  - herbivory defense -- tannins in plant tissue interfere with herbivore’s proteins (enzymes) involved in cell division and DNA transcription and repair
+  - herbivory defense -- tannins in plant tissue interfere with herbivore's proteins (enzymes) involved in cell division and DNA transcription and repair

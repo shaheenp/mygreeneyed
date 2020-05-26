@@ -6,7 +6,7 @@ commonname: linden tree, basswood
 family: Malvaceae
 ---
 
-*Tilia* -- Latin name for the linden or lime tree (though not a citrus species), known in southern Sweden as linn and the origin of the name Linnaeus, whose original name was Carl von Linne’
+*Tilia* -- Latin name for the linden or lime tree (though not a citrus species), known in southern Sweden as linn and the origin of the name Linnaeus, whose original name was Carl von Linne'
 
 Native range: N. America and Eurasia
 
@@ -55,9 +55,9 @@ Relevant info:
   - desirable because it is light, soft and resistant to splitting
   - commercially harvested in Great Lakes region
   - can live >1,000 yrs
-  - in Britain, known as “lime tree” from 1620s, earlier “line” (c. 1500), from Middle English “lynde” (early 14c.), from Old English “lind"
+  - in Britain, known as "lime tree" from 1620s, earlier "line" (c. 1500), from Middle English "lynde" (early 14c.), from Old English "lind"
   - in Central Europe, intensification of agriculture 5,000--7,000 years ago diminished abundance of native linden
-  - “Basswood” derived from “bastwood” [sic], in reference to the tough inner bark (“bast”) which has been used to make rope and mats
+  - "Basswood" derived from "bastwood" [sic], in reference to the tough inner bark ("bast") which has been used to make rope and mats
 
 Ecology & Adaptations:
   - over 2 dozen species, many of which can hybridize, primarily in temperate and subtropical regions

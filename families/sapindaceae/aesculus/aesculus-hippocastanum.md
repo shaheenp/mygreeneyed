@@ -59,7 +59,7 @@ Relevant info:
   - planted populations are vulnerable to invasive leaf-miners (larvae of leaf- miner moths)
   - naturalizes in PNW
   - can be an invasive species in forests
-  - nuts (seeds) are known as “conkers” in Great Britain and are used for a game: attached to strings, two conkers are attached to a cord and competitors flick their conker at the other until one breaks; world championship is held each October in England
+  - nuts (seeds) are known as "conkers" in Great Britain and are used for a game: attached to strings, two conkers are attached to a cord and competitors flick their conker at the other until one breaks; world championship is held each October in England
   - common name reflects misconception that tree is closely related to American chestnut and other spiny-cased seed-producing members of *Castanea* (Fagaceae, beech family), which produced edible nuts
 
 Ecology & Adaptations:
@@ -67,7 +67,7 @@ Ecology & Adaptations:
   - drought tolerance:
     - juvenile trees are drought-sensitive due to minimally developed root systems
     - older trees are moderately drought tolerant, with deep tap roots that can reach low water tables
-    - resin on the “sticky buds” is thought to help increase resistance to drought
+    - resin on the "sticky buds" is thought to help increase resistance to drought
     - bark has a small proportion of lenticels containing embedded waxes, which may reduce water loss
     - in native range, seed germination may occur in the autumn coinciding with autumn rain, which may give seedlings an advantage in allowing establishment and growth before summer drought the following year
     - proteins in seed cells may help prevent dehydration over winter, and may also protect against cold stress

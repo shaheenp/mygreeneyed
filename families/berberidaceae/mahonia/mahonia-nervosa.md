@@ -75,4 +75,4 @@ Ecology & Adaptations:
   - wildlife:
     - leaves are eaten especially in winter by elk and voles
     - fruits are eaten by small birds and mammals and sometimes black-tailed deer
-    - nectar is favored by Anna’s hummingbird
+    - nectar is favored by Anna's hummingbird

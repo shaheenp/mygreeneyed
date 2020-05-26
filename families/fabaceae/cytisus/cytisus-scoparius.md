@@ -45,10 +45,10 @@ Other characteristics:
   - forms dense, monotypic stands which reduce wildlife habitat and hinder re-vegetation of upland sites and wetland buffers
 
 Relevant info:
-  - on Washington’s prohibited plants list (no buy, sell, or transport)
+  - on Washington's prohibited plants list (no buy, sell, or transport)
   - introduced to Vancouver Island in 1850 by Capt Grant, an immigrant from Scotland, from some seeds he acquired in Hawaii from the British consul
-  - ‘broom’ is derived from Angle-Saxon *brom* meaning ‘foliage’
-    - applied to shrubs that were used for making ‘besoms,’ which are bunches of twigs used as brooms
+  - 'broom' is derived from Angle-Saxon *brom* meaning 'foliage'
+    - applied to shrubs that were used for making 'besoms,' which are bunches of twigs used as brooms
 
 Ecology & Adaptations:
   - native to Europe
@@ -67,5 +67,5 @@ Ecology & Adaptations:
     - seeds remain viable in soil from 5--60 years
   - control:
     - dig up or remove with a Weed Wrench, although the disturbed soil is then ideal for seed germination
-    - older stems that are no longer green or those that are >2” can be cut during drought of late July/August, with less risk of re-sprouting, though seed germination should be monitored
+    - older stems that are no longer green or those that are >2" can be cut during drought of late July/August, with less risk of re-sprouting, though seed germination should be monitored
     - large infestations on roadsides and other areas may require treatment with herbicide for 2 years, with monitoring for 10 years

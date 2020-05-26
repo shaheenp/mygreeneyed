@@ -32,7 +32,7 @@ Flowers:
 
 Fruit:
   - red or black (interior variety)
-  - *only edible after being cooked (Avoid fruit as a ‘trail snack’)*
+  - *only edible after being cooked (Avoid fruit as a 'trail snack')*
 
 <a title="AnRo0002 / CC0" href="https://commons.wikimedia.org/wiki/File:20170715Sambucus_racemosa1.jpg"><img width="512" alt="20170715Sambucus racemosa1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/20170715Sambucus_racemosa1.jpg/512px-20170715Sambucus_racemosa1.jpg"></a>
 

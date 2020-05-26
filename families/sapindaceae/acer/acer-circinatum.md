@@ -49,7 +49,7 @@ Other characteristics:
   - red and white flowers among the showiest in genus
 
 Relevant info:
-  - David Douglas (1799--1834), the Scottish botanist that explored the PNW, wrote that it “is called by the voyageurs Bois de diable ('wood or tree of the devil') from the obstruction it gives them in passing through the woods.”
+  - David Douglas (1799--1834), the Scottish botanist that explored the PNW, wrote that it "is called by the voyageurs Bois de diable ('wood or tree of the devil') from the obstruction it gives them in passing through the woods."
 
 Ecology & Adaptations:
   - native in Alaska to California

@@ -39,7 +39,7 @@ Flowers:
 <a title="Sten Porse / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)" href="https://commons.wikimedia.org/wiki/File:Cercidiphyllum-japonicum-female.JPG"><img width="512" alt="Cercidiphyllum-japonicum-female" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cercidiphyllum-japonicum-female.JPG/512px-Cercidiphyllum-japonicum-female.JPG"></a>
 
 Fruit:
-  - pollinated flowers on female trees are followed by clusters of greenish oblong pods (to 3/4” long) with winged seeds
+  - pollinated flowers on female trees are followed by clusters of greenish oblong pods (to 3/4" long) with winged seeds
   - pods are clustered in leaf axil
   - fruits mature in autumn
   - seeds released in autumn through winter and are distributed by wind
@@ -57,7 +57,7 @@ Relevant info:
   - one of the largest hardwoods in Asia
   - only remaining species of an ancient genus, which is found in the fossil record in North America and Europe dating back >65 million years
   - remaining populations are endemic to E China
-  - poor self-regeneration has contributed to “endangered” status in China
+  - poor self-regeneration has contributed to "endangered" status in China
 
 Ecology & Adaptations:
   - native to China and Japan
@@ -74,7 +74,7 @@ Ecology & Adaptations:
     - clustered pod-like fruits contain numerous small seeds easily dispersed by wind
   - seed germination:
     - forest stand regeneration is sporadic
-    - most germination succeeds on bare, especially disturbed soil (small seeds can’t penetrate litter layer), which often coincides with higher light in forest gaps
+    - most germination succeeds on bare, especially disturbed soil (small seeds can't penetrate litter layer), which often coincides with higher light in forest gaps
   - vegetative reproduction:
     - re-sprouts following disturbance in dynamic environments (e.g., gap formation in forest canopy, flooding in riparian corridors)
     - this vegetative regeneration compensates for low seedling survival (small seeds have difficulty penetrating litter layer, so establish in bare substrate of alluvial flats but cannot often survive there due to flooding)

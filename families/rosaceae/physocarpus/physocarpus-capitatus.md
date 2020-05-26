@@ -46,7 +46,7 @@ Other characteristics:
 Relevant info:
   - common restoration plant
   - common name refers to the many layers of bark on stems
-  - *Physocarpus opulifolius* ‘Diabolo’ -- common landscape plant with dark purple foliage, cultivar of species native to east coast of U.S.
+  - *Physocarpus opulifolius* 'Diabolo' -- common landscape plant with dark purple foliage, cultivar of species native to east coast of U.S.
 
 Ecology & Adaptations:
   - both sides of the Cascades in WA, but chiefly on the west side

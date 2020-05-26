@@ -27,7 +27,7 @@ Leaves:
 <a title="Eugene Zelenko / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)" href="https://commons.wikimedia.org/wiki/File:Arbutus_menziesii-5.jpg"><img width="512" alt="Arbutus menziesii-5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Arbutus_menziesii-5.jpg/512px-Arbutus_menziesii-5.jpg"></a>
 
 Flowers:
-  - inflorescence - panicles, <4” long
+  - inflorescence - panicles, <4" long
   - white corolla
   - urn-shaped flowers
   - 5-lobed calyx

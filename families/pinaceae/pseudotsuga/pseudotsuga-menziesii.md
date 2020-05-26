@@ -61,7 +61,7 @@ Relevant info:
 Ecology & Adaptations:
   - British Columbia to California, east to Alberta and Colorado
   - found in moist to dry areas from sea level to mid- elevations in the mountains
-  - fire resistance -- on mature trees, very thick (4-12”), corky bark, which enables trees to survive moderate surface fires
+  - fire resistance -- on mature trees, very thick (4-12"), corky bark, which enables trees to survive moderate surface fires
   - pollination by wind
   - seed dispersal:
     - seeds have a relatively large, single wing and are primarily dispersed by wind and gravity

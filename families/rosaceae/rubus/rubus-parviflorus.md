@@ -71,6 +71,6 @@ Ecology & Adaptations:
   - fire tolerance:
     - after fire, sprouts from rhizomes
     - most fires only top-kill thimbleberry shrubs, except where high temperatures penetrate deep into the mineral soil layer
-  - seeds dispersed by birds (robins, crows, Swainson’s thrushes, band-tailed pigeons) and mammals (squirrels, chipmunks, woodrats, voles, mice, and American martens) that eat the fruit
+  - seeds dispersed by birds (robins, crows, Swainson's thrushes, band-tailed pigeons) and mammals (squirrels, chipmunks, woodrats, voles, mice, and American martens) that eat the fruit
   - herbivore defense -- tannin and cardiac glycoside contents render this plant unpalatable to moose, a generalist, and other animals
   - succession -- although generally present throughout all stages of forest succession, thimbleberry is most characteristic or common in early-seral forest communities

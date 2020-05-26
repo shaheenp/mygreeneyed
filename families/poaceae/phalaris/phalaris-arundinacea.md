@@ -50,7 +50,7 @@ Other characteristics:
 
 Relevant info:
   - hyperaccumulator species capable of removing contaminants and excess nutrients through bioremediation
-  - called ‘canary grass’ perhaps because *P. canariensis* is source of canary seed, or because genus was first described in Canary Island
+  - called 'canary grass' perhaps because *P. canariensis* is source of canary seed, or because genus was first described in Canary Island
   - Note: There is some debate about whether or not there was/is a native strain of this species, but it is listed as non- native according to botanists and evolutionary biologists of the UW Herbarium. Currently, it is a major threat in wetland areas and restoration sites, where it forms monocultures and prevents establishment of native species, so in this course we focus on the need for control.
 
 Ecology & Adaptations:
