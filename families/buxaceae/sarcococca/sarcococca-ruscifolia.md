@@ -1,7 +1,7 @@
 ---
 permalink: /buxaceae/sarcococca/sarcococca-ruscifolia/
 layout: species
-title: Sarcococca ruscifloia
+title: Sarcococca ruscifolia
 commonname: fragrant sarcococca
 family: Buxaceae
 genus: Sarcococca
