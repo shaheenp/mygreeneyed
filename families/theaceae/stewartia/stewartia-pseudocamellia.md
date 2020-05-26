@@ -56,7 +56,7 @@ Other characteristics:
 <a title="Eggmoon / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Stewartia_pseudocamellia_at_Jirisan_mount_03.JPG"><img width="512" alt="Stewartia pseudocamellia at Jirisan mount 03" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Stewartia_pseudocamellia_at_Jirisan_mount_03.JPG/512px-Stewartia_pseudocamellia_at_Jirisan_mount_03.JPG"></a>
 
 Relevant info:
-  - known in Japan as the summer camellia, *natsu–tsubaki*
+  - known in Japan as the summer camellia, *natsu-tsubaki*
 
 Ecology & Adaptations:
   - native to mountains of Japan & Korea

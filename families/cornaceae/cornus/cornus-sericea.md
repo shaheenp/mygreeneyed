@@ -54,7 +54,7 @@ Relevant info:
 Ecology & Adaptations:
   - native to Alaska to California, common both sides of the Cascades, east to Idaho
   - found in moist soil, typically in swamps, wet meadows, marshes, lake shores, river banks, and streamside forest and scrub (shrub-dominated), but also in open upland forest and thickets and (in Alaska) rocky shorelines, bog-forest edges and disturbed sites
-  - valley bottoms to middle elevations (0–2000 m)
+  - valley bottoms to middle elevations (0--2000 m.)
   - vegetative reproduction:
     - shrubs often form clumps or dense thickets by stolons and prostrate, rooting stems and lower branches
     - stolons can extend as far as 10 ft. (3 m.) from parent plant

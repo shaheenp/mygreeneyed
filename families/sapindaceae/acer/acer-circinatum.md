@@ -56,7 +56,7 @@ Ecology & Adaptations:
   - occurring on both sides of the Cascades crest in Washington, usually at low elevations below 3,000 feet (914 m)
   - found in moist woods from sea level to mid-elevations in the mountains
   - moist to wet places, generally under other trees where some light reaches the forest floor (canopy openings, forest edges) but sometimes in open areas like shrubfields, clearcuts or lava flows
-  - pollination –- flowers produce nectar that attracts bees and butterflies
+  - pollination -- flowers produce nectar that attracts bees and butterflies
   - seed dispersal:
     - wings enable dispersal by wind, though dissemination in mature forests is restricted
     - squirrels and chipmunks aid dispersal by eating seeds, frequently storing them in caches after removing the hull and wing
