@@ -14,7 +14,7 @@
                     {% assign genus = site.pages | where: "title", page.genus | where: "family", page.family | first %}
                     <a class="italic" href="{{ genus.url | relative_url }}">{{ genus.title }}</a>
                     /
-                    <span class="italic">{{ page.title }}</span> {% if page.commonname %}({{ page.commonname }}){% endif %}
+                    <span class="italic">{{ page.title }}</span>{% if page.commonname %} ({{ page.commonname }}){% endif %}
                 </span>
                 {% if page.date %}
                 <span id="postDate" class="faded">Observed: {{ page.date | date: "%A, %B %-d, %Y" }}</span>

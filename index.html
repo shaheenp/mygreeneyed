@@ -2,6 +2,7 @@
 layout: default
 title: MyGreenEyeD
 ---
+
 <div class="column-container">
     <div>
         <div class="posts-header">Families</div>
@@ -26,6 +27,18 @@ title: MyGreenEyeD
                 <a class="post-title" href="{{ entry.url | relative_url }}"><span class="italic">{{ entry.title }}</span>{% if entry.commonname %} ({{ entry.commonname }}){% endif %}</a>
                 <span class="faded">
                     <i>| {{ entry.date | date: "%b %-d, %Y" }}</i>
+                </span>
+            </li>
+            {% endfor %}
+        </ul>
+        <div class="posts-header">Field Days</div>
+        <ul class="posts">
+            {% assign fieldDays = site.pages | where: "layout", "field_day" | sort: "date" %}
+            {% for fieldDay in fieldDays %}
+            <li class="post">
+                <a class="post-title" href="{{ fieldDay.url | relative_url }}"><span class="italic">{{ fieldDay.title }}</span></a>
+                <span class="faded">
+                    <i>| {{ fieldDay.date | date: "%b %-d, %Y" }}</i>
                 </span>
             </li>
             {% endfor %}

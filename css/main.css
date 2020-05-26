@@ -60,6 +60,10 @@ main {
     border-bottom: 1px solid #20202020;
 }
 
+div > .posts + .posts-header {
+padding-top: 20px;
+}
+
 body.night .post-header,
 body.night .posts-header {
     border-color: #fbf1c720;
@@ -148,6 +152,16 @@ ul.posts li + li {
 ***********/
 
 .post-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+/***********
+*** field_day ***
+***********/
+
+.field-day-nav {
+    padding-bottom: 20px;
     display: flex;
     justify-content: space-between;
 }

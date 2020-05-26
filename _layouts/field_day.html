@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en-us">
+{% include head.html %}
+<body>
+    <div id="container">
+        <main>
+            <div class="post-header">
+                <span>
+                    <a href="{{ "." | relative_url }}">Home</a>
+                    /
+                    {{ page.title }}
+                </span>
+                <span id="postDate" class="faded">{{ page.date | date: "%A, %B %-d, %Y" }}</span>
+            </div>
+            <div>
+                <div class="field-day-nav">
+                    {% assign currNum = page.url | split: "/" | last %}
+                    <span>
+                        {% assign prevNum = currNum | minus: 1 %}
+                        {% capture prevFieldDay %}Field Day {{ prevNum }}{% endcapture %}
+                        {% assign prevFieldDayPage = site.pages | where: "title", prevFieldDay | first %}
+                        {% if prevFieldDayPage %}
+                        <a href="{{ prevFieldDayPage.url | relative_url }}">< {{ prevFieldDayPage.title }}</a>
+                        {% endif %}
+                    </span>
+                    <span>
+                        {% assign nextNum = currNum | plus: 1 %}
+                        {% capture nextFieldDay %}Field Day {{ nextNum }}{% endcapture %}
+                        {% assign nextFieldDayPage = site.pages | where: "title", nextFieldDay | first %}
+                        {% if nextFieldDayPage %}
+                        <a href="{{ nextFieldDayPage.url | relative_url }}">{{ nextFieldDayPage.title }} ></a>
+                        {% endif %}
+                    </span>
+                </div>
+                <ul class="posts">
+                    {% for item in page.list %}
+                        {% assign item_page = site.pages | where: "title", item | first %}
+                    <li>
+                        <a href="{{ item_page.url | relative_url }}"><span class="italic">{{ item }}</span>{% if item_page.commonname %} ({{ item_page.commonname }}){% endif %}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </main>
+        {% include footer.html %}
+    </div>
+</body>
+</html>
