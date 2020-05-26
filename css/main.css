@@ -196,12 +196,12 @@ ul.posts li + li {
     }
 
     div.column-container {
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
 
     div.column-container > div + div {
         margin-left: 0px;
-        margin-top: 20px;
+        margin-bottom: 20px;
     }
 
     .post-header {
