@@ -6,7 +6,7 @@ commonname: oriental spruce, Caucasian spruce
 family: Pinaceae
 genus: Picea
 discovery: true
-date: 2020-04-13
+date: 2020-04-16
 ---
 
 ![Picea orientalis]({{ "/img/picea-orientalis-whole.jpeg" | relative_url }} "Picea orientalis - photo by Shaheen Page")

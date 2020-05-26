@@ -6,7 +6,7 @@ commonname: redclaws
 family: Escalloniaceae
 genus: Escallonia
 discovery: true
-date: 2020-04-07
+date: 2020-04-09
 ---
 
 ![Escallonia rubra]({{ "/img/escallonia-rubra-whole.jpeg" | relative_url }} "Escallonia rubra - photo by Shaheen Page")

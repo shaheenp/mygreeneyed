@@ -6,7 +6,7 @@ commonname: Herb Robert
 family: Geraniaceae
 genus: Geranium
 discovery: true
-date: 2020-04-20
+date: 2020-04-23
 ---
 
 Observed location: Ravenna Park, Seattle, WA -- forest understory
