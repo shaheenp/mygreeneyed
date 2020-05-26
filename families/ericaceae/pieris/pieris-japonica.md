@@ -7,8 +7,6 @@ family: Ericaceae
 genus: Pieris
 ---
 
-*pieris* -- named in 1834 by David Don (1799--1841) after the Pierides or nine muses (inspirational goddesses of literature, art, and sciences) of Greek mythology, who lived in Pieris, Northern Greece; Don was a prolific Scottish botanist, whose father was curator of the Royal Botanic Garden in Edinburgh
-
 *japonica* -- from Japan, where the species was first collected and described by Swedish physician Carl Thunberg, a pupil of Linneas, while working for the Dutch East India Company in Japan
 
 Native range: S.E. China, Taiwan, Japan

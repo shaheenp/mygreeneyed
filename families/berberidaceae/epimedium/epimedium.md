@@ -43,7 +43,7 @@ Other notes:
   - *pinnatus* -- Latin for feathered in probably reference to leaf shape
 
 Ecology & Adaptations:
-  - example in the WA Arboretum: *Epimedium pinnatum ssp. colchicum* 'Thunderbolt'
+  - example in the WA Arboretum: *E. pinnatum ssp. colchicum* 'Thunderbolt'
     - Native to Armenia, Azerbaijan, Iran, Turkey
     - found in the woodland areas of the Caucasus Mtns near the Black Sea and Caspian Sea
   - very shade tolerant:
@@ -51,7 +51,7 @@ Ecology & Adaptations:
     - leaves oriented horizontally to capture light
     - evergreen leaves permit photosynthesizing before canopy leaves emerge overhead.
   - drought tolerant
-    - in *Epimedium pubescens*, relative water content decreases slightly but is otherwise maintained above 70%
+    - in *E. pubescens*, relative water content decreases slightly but is otherwise maintained above 70%
     - membrane degradation is prevented via the production of cell defense enzymes
   - Vegetative reproduction via rhizomes forms clumps
   - pollination by bees Compounds (glycosides, etc.) prevent microbial infection and help defend against herbivory

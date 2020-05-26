@@ -6,4 +6,4 @@ commonname:
 family: Polypodiaceae
 ---
 
-*polystichum* -- *poly* meaning ‘many’ + *stichos* meaning ‘in a row’ (Greek), in reference to its spore cases being in rows on the underside of fronds
+*Polystichum* -- *poly* meaning ‘many’ + *stichos* meaning ‘in a row’ (Greek), in reference to its spore cases being in rows on the underside of fronds

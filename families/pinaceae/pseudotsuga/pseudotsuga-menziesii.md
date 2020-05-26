@@ -7,10 +7,6 @@ family: Pinaceae
 genus: Pseudotsuga
 ---
 
-*pseudo* -- false (Greek)
-
-*tsuga* -- hemlock (derived from *kometsuga*, Japanese name for hemlocks)
-
 *menziesii* -- refers to Scottish naval surgeon and botanist Achibald Menzies (1754-1842), who explored the PNW with Capt. George Vancouver
 
 Native range: British Columbia to California, Rocky Mountains

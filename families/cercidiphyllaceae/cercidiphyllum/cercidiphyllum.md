@@ -1,5 +1,5 @@
 ---
-permalink: /cercidiphyllaceae/lonicera/
+permalink: /cercidiphyllaceae/cercidiphyllum/
 layout: genus
 title: Cercidiphyllum
 commonname: katsura

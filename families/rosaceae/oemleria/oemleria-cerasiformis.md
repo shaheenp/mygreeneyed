@@ -7,8 +7,6 @@ family: Rosaceae
 genus: Oemleria
 ---
 
-*Oemleria* -- refers to Herr Oemer of Dresden, Germany, who supplied American plants to the German botanist H.G.L. Reichenbach in the mid-1800s
-
 *cerasiformis* -- shaped like a cherry, referring to the fruit
 
 ![whole plant](http://www.pnwplants.wsu.edu/Handler.ashx?ImageID=816 "whole plant - courtesy of WSU PNW Plants"){:width="512"}

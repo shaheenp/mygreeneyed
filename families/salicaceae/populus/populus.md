@@ -6,7 +6,7 @@ commonname: poplars, aspens & cottonwoods
 family: Salicaceae
 ---
 
-*populus* -- Latin name for poplars as a group
+*Populus* -- Latin name for poplars as a group
 
 Leaves:
   - alternate

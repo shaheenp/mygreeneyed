@@ -6,6 +6,6 @@ commonname:
 family: Berberidaceae
 ---
 
-*nandina* -- Latinized form of the Japanese name *nanten*
+*Nandina* -- Latinized form of the Japanese name *nanten*
 
 **monotypic genus**

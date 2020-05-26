@@ -6,6 +6,11 @@ commonname: magnolias
 family: Magnoliaceae
 ---
 
+*Magnolia* -- Pierre Magnol, French botanist (1638--1715), professor and director of the botanical garden at Montpellier, France
+  - in 1676, he published a flora of the region that contained 1,354 species
+  - first to use the concept of plant families, based on morphological characteristics
+  - in 1703, Charles Plumier (1646--1704) applied the name *[Magnolia](../)*, to a flowering tree from Martinique
+
 Native range: Asia, Eastern North America, Central America
 
 <a title="Riverbanks Outdoor Store from New Port Richey, FL, United States / CC BY (https://creativecommons.org/licenses/by/2.0)" href="https://commons.wikimedia.org/wiki/File:Magnolia_grandiflora_Tree.jpg"><img width="512" alt="Magnolia grandiflora Tree" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Magnolia_grandiflora_Tree.jpg/512px-Magnolia_grandiflora_Tree.jpg"></a>

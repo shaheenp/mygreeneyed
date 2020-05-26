@@ -7,8 +7,6 @@ family: Adoxaceae
 genus: Viburnum
 ---
 
-*viburnum* -- "snowball" (Latin) referring to the large domed clusters of flowers
-
 *davidii* -- Jean Pierre Armand David (1826--1900), a Jesuit French missionary, who traveled to China initially to convert people to Catholicism but who ultimately focused on the natural history (plant and animal life) of the region and identified this species for western culture
 
 Native range: Tibet (often listed as W. China)

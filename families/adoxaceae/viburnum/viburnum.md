@@ -6,6 +6,8 @@ commonname: viburnums
 family: Adoxaceae
 ---
 
+*Viburnum* -- "snowball" (Latin) referring to the large domed clusters of flowers
+
 Leaves:
   - opposite
   - simple

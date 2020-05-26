@@ -7,10 +7,6 @@ family: Cupressaceae
 genus: Chamaecyparis
 ---
 
-*chamai* -- dwarf or on/to the ground (prostrate) [Greek]
-
-*kyparissos* -- cypress tree (Greek)
-
 *lawsoniana* -- named for Charles Lawson (1794-1873), a Scottish nurseryman who specialized in grass seeds and conifers
   - he grew trees from seed sent to him in 1854 by William Murray while working on his "Notes on California Trees"
 

@@ -7,8 +7,6 @@ family: Adoxaceae
 genus: Viburnum
 ---
 
-*viburnum* -- "snowball" (Latin) referring to the large domed clusters of flowers
-
 *tinus* -- from common name "laurustinus", which refers to the resemblance of the leaves to laurel
 
 Native range: Mediterranean

@@ -5,3 +5,5 @@ title: Fatsia
 commonname:
 family: Araliaceae
 ---
+
+*Fatsia* -- Latinized adaptation of an obsolete or misrendered Japanese name *fatsi*

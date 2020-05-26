@@ -6,7 +6,7 @@ commonname: spruces
 family: Pinaceae
 ---
 
-*picea* -- reportedly derived from *pix* (Latin), meaning pitch in reference to the sticky resin typically found in spruce bark
+*Picea* -- reportedly derived from *pix* (Latin), meaning pitch in reference to the sticky resin typically found in spruce bark
 
 Native range: N. Hemisphere
 

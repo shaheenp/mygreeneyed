@@ -7,8 +7,6 @@ family: Ericaceae
 genus: Arbutus
 ---
 
-*arbutu* -- strawberry (Latin), in reference to red fruits produced
-
 *unedo* -- combination of Latin words *unum* meaning one and *edo* meaning eat, resulting in "I eat one" in reference to the edible (but unpalatable) fruit
 
 Native range: S.E. Europe, Turkey, Lebanon, N. Africa

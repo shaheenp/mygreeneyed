@@ -6,7 +6,7 @@ commonname:
 family: Rosaceae
 ---
 
-*photinia* -- deried from the Greek word *photeinos* meaning "shining," in reference to the shiny leaves of some species
+*Photinia* -- deried from the Greek word *photeinos* meaning "shining," in reference to the shiny leaves of some species
 
 Native range: SE Asia
 

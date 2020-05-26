@@ -6,6 +6,11 @@ commonname: cypress genus
 family: Cupressaceae
 ---
 
+*chamai* -- dwarf or on/to the ground (prostrate) [Greek]
+
+*kyparissos* -- cypress tree (Greek)
+
+
 Leaves:
   - scale-like (smaller than *[Thuja](../thuja/thuja.md)*)
   - branchlets usually flattened

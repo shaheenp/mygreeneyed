@@ -6,7 +6,7 @@ commonname: yews
 family: Taxaceae
 ---
 
-*taxus* -- old Latin name for yews
+*Taxus* -- old Latin name for yews
 
 Leaves:
   - alternate

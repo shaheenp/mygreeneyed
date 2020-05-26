@@ -7,10 +7,6 @@ family: Arecaceae
 genus: Trachycarpus
 ---
 
-*trachy* -- rough (Greek)
-
-*karpos* -- fruit (Greek)
-
 *fortunei* -- refers to Robert Fortune, a Scottish plant explorer in the 1800s who conducted most of his expeditions in China, often for the purpose of finding tea plants
 
 Native range: E. Asia

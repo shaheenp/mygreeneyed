@@ -7,8 +7,6 @@ family: Araliaceae
 genus: Fatsia
 ---
 
-*fatsia* -- Latinized adaptation of an absolete or misrendered Japanese name *fatsi* for *Fatsia*
-
 *japonica* -- refers to native region of Japan
 
 Native range: South Korea, Japan

@@ -6,4 +6,4 @@ commonname: larches
 family: Pinaceae
 ---
 
-*larix* -- larch (Latin)
+*Larix* -- larch (Latin)

@@ -131,10 +131,10 @@ footer {
 }
 
 #footer {
+    max-width: 100%;
+    width: 1170px;
     display: inline-block;
     border-top: 1px solid #20202020;
-    padding-left: 200px;
-    padding-right: 200px;
     padding-top: 20px;
 }
 
@@ -259,6 +259,10 @@ ul.posts li + li {
     main {
         width: 970px;
     }
+
+    #footer {
+        width: 970px;
+    }
 }
 
 @media only screen and (max-width: 1070px) {
@@ -267,6 +271,11 @@ ul.posts li + li {
     }
 
     main {
+        max-width: calc(100% - 150px);
+        width: 750px;
+    }
+
+    #footer {
         max-width: calc(100% - 150px);
         width: 750px;
     }
@@ -286,11 +295,6 @@ ul.posts li + li {
 
     #postDate {
         margin-top: 10px;
-    }
-
-    #footer {
-        padding-left: 100px;
-        padding-right: 100px;
     }
 }
 

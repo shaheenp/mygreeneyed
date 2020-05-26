@@ -6,7 +6,7 @@ commonname: redbud
 family: Fabaceae
 ---
 
-*cercis* -- from *kerkis* (Greek), meaning weaver's shuttle, in reference to the resemblance of each seed pod to a weaver's shuttle
+*Cercis* -- from *kerkis* (Greek), meaning weaver's shuttle, in reference to the resemblance of each seed pod to a weaver's shuttle
 
 Native range: N. America, Europe, Asia
 

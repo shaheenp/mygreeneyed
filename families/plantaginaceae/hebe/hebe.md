@@ -6,7 +6,7 @@ commonname:
 family: Plantaginaceae
 ---
 
-*hebe* -- "young maturity" or "bloom of youth" (Greek); honoring the Greek goddess of youth and cup-bearer to the gods, serving them nectar and ambrosia
+*Hebe* -- "young maturity" or "bloom of youth" (Greek); honoring the Greek goddess of youth and cup-bearer to the gods, serving them nectar and ambrosia
   - she was the youngest of the Olympian gods and believed to have the power to restore youth
 
 Native range: New Zealand, SE Australia, Chile, and Rapa (French Polynesia)

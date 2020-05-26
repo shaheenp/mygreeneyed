@@ -7,8 +7,6 @@ family: Buxaceae
 genus: Buxus
 ---
 
-*buxus* -- Latin for this group of plants
-
 *sempervirens* -- evergreen (Latin)
 
 Native range: Europe, N. Africa, Turkey

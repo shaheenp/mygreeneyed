@@ -6,6 +6,6 @@ commonname:
 family: Nyssaceae
 ---
 
-*davidia* -- refers to French priest and naturalist Father Armand David, who was the first westerner to describe this species (and the giant panda)
+*Davidia* -- refers to French priest and naturalist Father Armand David, who was the first westerner to describe this species (and the giant panda)
 
 **monotypic genus**

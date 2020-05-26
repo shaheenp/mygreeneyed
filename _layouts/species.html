@@ -21,28 +21,6 @@
                 {% endif %}
             </div>
             <div>
-                <!--
-                NOTE: This is alright... any and all words on page are replaced,
-                such as "in", words in alt attributes of images, etc. Possible
-                solution: explicitly tag words in page content when I want to have
-                definiton show up?
-                {% assign c = "" %}
-                {% assign words = content | split: " " %}
-                {% for word in words %}
-                    {% assign lookup = site.data.glossary[word] %}
-                    {% if lookup %}
-                        {% capture c %}
-                        {{ c }} <span class="tooltip">
-                            {{ word }}
-                            <span class="tooltiptext">{{ lookup | slice: 0, 80 }}</span>
-                        </span>
-                        {% endcapture %}
-                    {% else %}
-                        {% capture c %}{{ c }} {{ word }}{% endcapture %}
-                    {% endif %}
-                {% endfor %}
-                {{ c }}
-                -->
                 {{ content }}
             </div>
         </main>
