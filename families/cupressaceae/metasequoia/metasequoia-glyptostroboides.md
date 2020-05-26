@@ -45,7 +45,7 @@ Relevant info:
   - genus originally identified in the fossil record by a Japanese paleobotanist in 1941
   - living members of genus identified by Chinese botanists in 1943
   - seeds were sent to and grown by Missouri Botanic Garden and Univ. of California and Oregon in 1947
-  - more fascinating details of this story found at: [Metasequoia glyptostroboides | Landscape Plants | Oregon State University](https://landscapeplants.oregonstate.edu/plants/metasequoia-glyptostroboides)
+  - more fascinating details of this story found at: [OSU Landscape Plants -- Metasequoia glyptostroboides](https://landscapeplants.oregonstate.edu/plants/metasequoia-glyptostroboides)
   - "Dawn redwood" refers to the tree's early fossil record
   - State Fossil of Oregon, where it flourished 5 to 25 million years ago and can be found in the fossil record
 
