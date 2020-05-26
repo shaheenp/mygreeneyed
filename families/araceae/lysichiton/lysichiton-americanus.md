@@ -13,7 +13,7 @@ genus: Lysichiton
 
 Native range: Pacific Northwest (of North America)
 
-![Lysichiton americanus]({{ "/img/lysichiton-americanus-whole.jpg" | relative_url }} "Lysichiton americanus - photo by Shaheen Page"){:width="512"}
+![Lysichiton americanus]({{ "/img/lysichiton-americanus-whole.jpeg" | relative_url }} "Lysichiton americanus - photo by Shaheen Page"){:width="512"}
 
 
 Leaves:

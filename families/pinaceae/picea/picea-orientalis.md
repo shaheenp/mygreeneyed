@@ -9,7 +9,7 @@ discovery: true
 date: 2020-04-13
 ---
 
-![whole tree]({{ "/img/picea-orientalis-whole.jpg" | relative_url }} "whole tree - photo by Shaheen Page")
+![Picea orientalis]({{ "/img/picea-orientalis-whole.jpeg" | relative_url }} "Picea orientalis - photo by Shaheen Page")
 
 Observed location: Green Lake Park, Seattle, WA, approximately 47.678339, -122.331467
 
@@ -26,7 +26,7 @@ Male cones:
   - pinkish-purple
   - very small
 
-![branches w/ leaves and developing male cones]({{ "/img/picea-orientalis-branch.jpg" | relative_url }} "branches w/ leaves and developing male cones - photo by Shaheen Page")
+![Picea orientalis branches w/ leaves and developing male cones]({{ "/img/picea-orientalis-branch.jpeg" | relative_url }} "Picea orientalis branches w/ leaves and developing male cones - photo by Shaheen Page")
 
 Other characteristics:
   - pyramidal crown shape

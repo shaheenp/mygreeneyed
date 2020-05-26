@@ -9,7 +9,7 @@ discovery: true
 date: 2020-04-07
 ---
 
-![whole plant]({{ "/img/escallonia-rubra-whole.jpg" | relative_url }} "whole plant - photo by Shaheen Page")
+![Escallonia rubra]({{ "/img/escallonia-rubra-whole.jpeg" | relative_url }} "Escallonia rubra - photo by Shaheen Page")
 
 Observed location: in the landscaping between the road and UW tennis courts -- Seattle, WA, approximately 47.652653, -122.301133
 
@@ -26,7 +26,7 @@ Flowers:
   - 5 stamen
   - 5 petals
 
-![closeup of leaves and flowers]({{ "/img/escallonia-rubra-closeup.jpg" | relative_url }} "closeup of leaves and flowers - photo by Shaheen Page")
+![Escallonia rubra leaves & flowers]({{ "/img/escallonia-rubra-closeup.jpeg" | relative_url }} "Escallonia rubra leaves & flowers - photo by Shaheen Page")
 
 Resources used to identify:
   - [iNaturalist](https://www.inaturalist.org/taxa/162726-Escallonia-rubra)

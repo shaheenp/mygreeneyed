@@ -11,7 +11,7 @@ genus: Davidia
 
 Native range: Central and Southern China
 
-![Davidia involucrata]({{ "/img/davidia-involucrata-whole.jpg" | relative_url }} "Davidia involucrata - photo by Shaheen Page"){:width="512"}
+![Davidia involucrata]({{ "/img/davidia-involucrata-whole.jpeg" | relative_url }} "Davidia involucrata - photo by Shaheen Page"){:width="512"}
 
 
 Leaves:
@@ -26,7 +26,7 @@ Leaves:
   - densely pubescent under
   - vivid green
 
-![Davidia involucrata leaves]({{ "/img/davidia-involucrata-leaves.jpg" | relative_url }} "Davidia involucrata leaves - photo by Shaheen Page"){:width="512"}
+![Davidia involucrata leaves]({{ "/img/davidia-involucrata-leaves.jpeg" | relative_url }} "Davidia involucrata leaves - photo by Shaheen Page"){:width="512"}
 
 
 Flowers:
@@ -35,7 +35,7 @@ Flowers:
   - reddish purple flower heads
   - flower has 2 large pendulous, unequally-sized, white bracts (largest one ~3" long)
 
-![Davidia involucrata flower]({{ "/img/davidia-involucrata-flower.jpg" | relative_url }} "Davidia involucrata flower - photo by Shaheen Page"){:width="512"}
+![Davidia involucrata flower]({{ "/img/davidia-involucrata-flower.jpeg" | relative_url }} "Davidia involucrata flower - photo by Shaheen Page"){:width="512"}
 
 Fruit:
   - nut w/ 3--5 seeds
@@ -50,7 +50,7 @@ Other characteristics:
   - bark orange-brown, scaly
   - ~10 years old before flowers
 
-![Davidia involucrata trunk]({{ "/img/davidia-involucrata-trunk.jpg" | relative_url }} "Davidia involucrata trunk - photo by Shaheen Page"){:width="512"}
+![Davidia involucrata trunk]({{ "/img/davidia-involucrata-trunk.jpeg" | relative_url }} "Davidia involucrata trunk - photo by Shaheen Page"){:width="512"}
 
 Relevant info:
   - related to *[Cornus]({{ "/cornaceae/cornus/"  | relative_url }})* (dogwood) and *Nyssa* (tupelo)

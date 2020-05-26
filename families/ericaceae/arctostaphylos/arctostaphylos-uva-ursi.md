@@ -24,22 +24,22 @@ Leaves:
   - glabrous (smooth/no pubescence)
   - 0.5-0.75" long
 
-![leaves]({{ "/img/arctostaphylos-uva-ursi-leaves.jpg" | relative_url }} "leaves - photo by Shaheen Page")
+![Arctostaphylos uva-ursi leaves]({{ "/img/arctostaphylos-uva-ursi-leaves.jpeg" | relative_url }} "Arctostaphylos uva-ursi leaves - photo by Shaheen Page"){:width="512"}
 
 Flowers:
   - inflorescence -- cluster on short stalks (terminal racemes)
   - flowers small, nodding, pendulous
   - 5 petals, fused, urn shaped
   - pink & white
-  - 8-10 stamen
+  - 8--10 stamen
 
-![flowers]({{ "/img/arctostaphylos-uva-ursi-flowers.jpg" | relative_url }} "flowers - photo by Shaheen Page")
+![Arctostaphylos uva-ursi inflorescence]({{ "/img/arctostaphylos-uva-ursi-inflorescence.jpeg" | relative_url }} "Arctostaphylos uva-ursi inflorescence - photo by Shaheen Page"){:width="512"}
 
-![flowers, underside]({{ "/img/arctostaphylos-uva-ursi-flowers-2.jpg" | relative_url }} "flowers, underside - photo by Shaheen Page")
+![Arctostaphylos uva-ursi inflorescence underside]({{ "/img/arctostaphylos-uva-ursi-inflorescence-underside.jpeg" | relative_url }} "Arctostaphylos uva-ursi inflorescence underside - photo by Shaheen Page"){:width="512"}
 
 Fruit:
   - berry
-  - small (1/3-1/2")
+  - small (1/3--1/2")
   - red
 
 <a title="Jesse Taylor / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Common_bearberry_(%22Kinnikinnick%22,_Arctostaphylos_uva-ursi)_-_fruits_and_leaves.JPG"><img width="512" alt="Common bearberry (&quot;Kinnikinnick&quot;, Arctostaphylos uva-ursi) - fruits and leaves" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Common_bearberry_%28%22Kinnikinnick%22%2C_Arctostaphylos_uva-ursi%29_-_fruits_and_leaves.JPG/512px-Common_bearberry_%28%22Kinnikinnick%22%2C_Arctostaphylos_uva-ursi%29_-_fruits_and_leaves.JPG"></a>

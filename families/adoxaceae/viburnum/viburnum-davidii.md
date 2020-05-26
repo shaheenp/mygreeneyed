@@ -11,7 +11,7 @@ genus: Viburnum
 
 Native range: Tibet (often listed as W. China)
 
-![whole plant]({{ "/img/viburnum-davidii-whole.jpg" | relative_url }} "whole plant - photo by Shaheen Page")
+![Viburnum davidii]({{ "/img/viburnum-davidii-whole.jpeg" | relative_url }} "Viburnum davidii - photo by Shaheen Page"){:width="512"}
 
 Leaves:
   - opposite
@@ -27,7 +27,7 @@ Leaves:
   - turn burgundy in fall
   - leathery
 
-![leaves]({{ "/img/viburnum-davidii-leaves.jpg" | relative_url }} "leaves - photo by Shaheen Page")
+![Viburnum davidii leaves]({{ "/img/viburnum-davidii-leaves.jpeg" | relative_url }} "Viburnum davidii leaves - photo by Shaheen Page"){:width="512"}
 
 Flowers:
   - dioecious
@@ -38,7 +38,7 @@ Flowers:
   - 5 stamens
   - white to pinkish
 
-![flowers]({{ "/img/viburnum-davidii-flowers.jpg" | relative_url }} "flowers - photo by Shaheen Page")
+![Viburnum davidii inflorescence]({{ "/img/viburnum-davidii-inflorescence.jpeg" | relative_url }} "Viburnum davidii inflorescence - photo by Shaheen Page")
 
 Fruit:
   - drupe

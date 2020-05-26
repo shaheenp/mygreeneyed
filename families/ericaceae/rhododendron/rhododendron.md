@@ -14,14 +14,14 @@ Native range: Europe, Australia, North America, and Asia
 
 <a title="albert kok / CC BY (https://creativecommons.org/licenses/by/3.0)" href="https://commons.wikimedia.org/wiki/File:Alpenroos.jpg"><img width="512" alt="Alpenroos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alpenroos.jpg/512px-Alpenroos.jpg"></a>
 
-![whole plant]({{ "/img/rhododendron-whole.jpg" | relative_url }} "whole plant - photo by Shaheen Page")
+![Rhododendron]({{ "/img/rhododendron-whole.jpeg" | relative_url }} "Rhododendron - photo by Shaheen Page")
 
 Leaves:
   - alternate, often clustered at ends of shoots
   - entire margin
   - often scales or hairs on lower side of leaf
 
-![leaves & flower bud]({{ "/img/rhododendron-flower-bud.jpg" | relative_url }} "leaves & flower bud - photo by Shaheen Page")
+![Rhododendron leaves & flower bud]({{ "/img/rhododendron-flower-bud.jpeg" | relative_url }} "Rhododendron leaves & flower bud - photo by Shaheen Page")
 
 Flowers:
   - umbel-like inflorescences (trusses) clustered at ends of branches

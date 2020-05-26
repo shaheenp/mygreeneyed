@@ -13,20 +13,20 @@ Observed location: Ravenna Park, Seattle, WA -- forest understory
 
 Native range: Southern Europe in woodlands
 
-![plant with pair of flowers]({{ "/img/geranium-robertianum-flower-pair.jpg" | relative_url }} "plant with pair of flowers - photo by Shaheen Page")
+![Geranium robertianum pair of flowers]({{ "/img/geranium-robertianum-flower-pair.jpeg" | relative_url }} "Geranium robertianum pair of flowers - photo by Shaheen Page")
 
 Leaves:
   - deeply dissected
   - ternate to palmate
 
-![leaves]({{ "/img/geranium-robertianum-leaves.jpg" | relative_url }} "leaves - photo by Shaheen Page")
+![Geranium robertianum leaves]({{ "/img/geranium-robertianum-leaves.jpeg" | relative_url }} "Geranium robertianum leaves - photo by Shaheen Page")
 
 Flowers:
   - 5 petals
   - pink
   - grown in pairs
 
-![flower]({{ "/img/geranium-robertianum-flower.jpg" | relative_url }} "flower - photo by Shaheen Page")
+![Geranium robertianum flower]({{ "/img/geranium-robertianum-flower.jpeg" | relative_url }} "Geranium robertianum flower - photo by Shaheen Page")
 
 Other characteristics:
   - red stems covered in white glandular hairs

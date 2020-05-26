@@ -20,7 +20,7 @@ Leaves:
   - blunt at apex
   - white "Y" markings below (stomata)
 
-![Chamaecyparis obtusa branch]({{ "/img/chamaecyparis-obtusa-branch.jpg" | relative_url }} "Chamaecyparis obtusa branch - photo by Shaheen Page"){:width="512"}
+![Chamaecyparis obtusa branch]({{ "/img/chamaecyparis-obtusa-branch.jpeg" | relative_url }} "Chamaecyparis obtusa branch - photo by Shaheen Page"){:width="512"}
 
 Cones:
   - monoecious
@@ -39,7 +39,7 @@ Other characteristics:
   - branchlets are rounded at the end (obtuse) instead of coming to a point as in *[Thuja](../../thuja/)* or *[Chamaecyparis lawsoniana](../chamaecyparis-lawsoniana/)*.
 
 
-![Chamaecyparis obtusa bark]({{ "/img/chamaecyparis-obtusa-bark.jpg" | relative_url }} "Chamaecyparis obtusa bark - photo by Shaheen Page"){:width="512"}
+![Chamaecyparis obtusa bark]({{ "/img/chamaecyparis-obtusa-bark.jpeg" | relative_url }} "Chamaecyparis obtusa bark - photo by Shaheen Page"){:width="512"}
 
 Relevant info:
   - usually smaller cultivar forms are used in managed landscapes in PNW
