@@ -7,8 +7,6 @@ family: Cornaceae
 genus: Cornus
 ---
 
-*cornu* -- horn (Latin) perhaps referring to the strength and density of the wood
-
 *nuttallii* -- refers to Thomas Nuttall (1786-1859), American ornithologist and artist
 
 Native range: US West cost & Idaho

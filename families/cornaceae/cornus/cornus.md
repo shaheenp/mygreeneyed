@@ -6,6 +6,8 @@ commonname: dogwood genus
 family: Cornaceae
 ---
 
+*cornu* -- horn (Latin) perhaps referring to the strength and density of the wood
+
 Leaves:
   - opposite (alternate in one species)
   - simple
