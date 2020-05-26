@@ -11,12 +11,12 @@ html, body {
 
 body,
 body * {
-    font-family: Roboto Mono, Menlo, Courier, monospace;
+    font-family: -apple-system, Helvetica, Arial, sans-serif;
 }
 
 body {
     font-weight: 300;
-    font-size: .875em;
+    font-size: 1em;
     background-color: #d5c4a180;
 }
 
@@ -28,36 +28,6 @@ body.night {
 #container {
     min-height: 100%;
     position: relative;
-}
-
-nav {
-    top: 0px;
-    z-index: 9999;
-    height: 40px;
-    font-size: 1.3em;
-    padding: 6px;
-    background-color: #F8F8F8;
-    border-bottom: 1px solid #e7e7e7;
-}
-
-body.night > nav {
-    background-color: #1e1e1e;
-    border-color: #181818;
-    color: #d5c4a1;
-}
-
-div.navbar {
-    max-width: 100%;
-    width: 1170px;
-    line-height: 40px;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-}
-
-div.nav-left > span,
-div.nav-right > span {
-    padding: 0 15px;
 }
 
 a {
@@ -142,53 +112,6 @@ body.night #footer {
     border-color: #fbf1c720;
 }
 
-/* Tooltip container */
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted #4A7023;
-}
-
-/* Tooltip text */
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 140px;
-  background-color: #555;
-  color: #fff;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 6px;
-
-  /* Position the tooltip text */
-  position: absolute;
-  z-index: 1;
-  bottom: 125%;
-  left: 50%;
-  margin-left: -60px;
-
-  /* Fade in tooltip */
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-/* Tooltip arrow */
-.tooltip .tooltiptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
-}
-
-/* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
-}
-
 /***********
 *** home ***
 ***********/
@@ -252,10 +175,6 @@ ul.posts li + li {
 }
 
 @media only screen and (max-width: 1270px) {
-    nav > div.navbar {
-        width: 970px;
-    }
-
     main {
         width: 970px;
     }
@@ -266,10 +185,6 @@ ul.posts li + li {
 }
 
 @media only screen and (max-width: 1070px) {
-    nav > div.navbar {
-        width: 750px;
-    }
-
     main {
         max-width: calc(100% - 150px);
         width: 750px;
@@ -296,14 +211,4 @@ ul.posts li + li {
     #postDate {
         margin-top: 10px;
     }
-}
-
-/* roboto-mono-300 - latin */
-@font-face {
-  font-family: 'Roboto Mono';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Roboto Mono Light'), local('RobotoMono-Light'),
-       url('../fonts/roboto-mono-v5-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/roboto-mono-v5-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
