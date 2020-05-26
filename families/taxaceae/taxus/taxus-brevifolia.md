@@ -2,7 +2,7 @@
 permalink: /taxaceae/taxus/taxus-brevifolia/
 layout: species
 title: Taxus brevifolia
-commonname: Pacific yew, western yew
+commonname: Pacific/western yew
 family: Taxaceae
 genus: Taxus
 ---
@@ -17,7 +17,7 @@ Native range: Pacific Northwest
 
 Leaves:
   - needles flat
-  - 2-3 cm long
+  - 2--3 cm long
   - dull green above, striped with stomata below
   - ending abruptly in fine point
   - arranged in two rows (ranks) in flat sprays

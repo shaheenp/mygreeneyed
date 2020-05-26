@@ -6,6 +6,8 @@ commonname: hemlocks
 family: Pinaceae
 ---
 
+*Tsuga* -- derived from Japanese name, *kometsuga*, for trees in this genus
+
 Native range: N. America, E. Asia
 
 Leaves:

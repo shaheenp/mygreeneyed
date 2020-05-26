@@ -7,8 +7,6 @@ family: Pinaceae
 genus: Tsuga
 ---
 
-*Tsuga* -- derived from Japanese name, *kometsuga*, for trees in this genus
-
 *heteros* -- different (Greek)
 
 *phyllon* -- leaf (Greek)
