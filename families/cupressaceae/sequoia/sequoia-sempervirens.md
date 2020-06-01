@@ -13,7 +13,7 @@ genus: Sequoia
 
 Native range: Coastal California and Oregon
 
-<a title="Dietmar Rabich / Wikimedia Commons / "Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1404" / CC BY-SA 4.0" href="https://commons.wikimedia.org/wiki/File:Beech_Forest_(AU),_Great_Otway_National_Park,_Californian_Redwoods_--_2019_--_1404.jpg"><img width="512" alt="Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1404" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Californian_Redwoods_--_2019_--_1404.jpg/512px-Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Californian_Redwoods_--_2019_--_1404.jpg"></a>
+<a title="Tomwsulcer / CC0" href="https://commons.wikimedia.org/wiki/File:California_redwood_trees_giant_tree_looking_straight_up.JPG"><img width="512" alt="California redwood trees giant tree looking straight up" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/California_redwood_trees_giant_tree_looking_straight_up.JPG/512px-California_redwood_trees_giant_tree_looking_straight_up.JPG"></a>
 
 Leaves:
   - mostly linear, alternate

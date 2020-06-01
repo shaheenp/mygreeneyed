@@ -70,7 +70,7 @@ Ecology & Adaptations:
   - seed dispersal:
     - via gravity and insect and rodent activity
     - cones also fall to ground and may open over several years or two decades
-    - >300,000 seeds released from a single tree
+    - 300,000+ seeds released from a single tree
   - seed germination -- seeds dropped just before the first snow or just as the snow melts may have the best chance of germinating and becoming successfully established
   - fire-resistance:
     - deeply furrowed bark can be up to 60 cm thick and is fire-resistant

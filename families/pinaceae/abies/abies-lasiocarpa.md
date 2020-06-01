@@ -52,7 +52,7 @@ Bark:
 
 Other characteristics:
   - evergreen
-  - < 100' tall, 2' diameter
+  - <100' tall, 2' diameter
   - 'spire-like' crown (very tall and thin)
 
 Ecology & Adaptations:
