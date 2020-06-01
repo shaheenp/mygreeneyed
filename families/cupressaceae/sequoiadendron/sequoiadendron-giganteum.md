@@ -25,7 +25,7 @@ Leaves:
 Cones:
   - female cones:
     - 2-3" long
-    - ~1.5 in. diameter
+    - ~1.5" diameter
     - ovoid w/ peltate (shield shaped) "wrinkled" cone scales
     - very hard and woody
     - cone upright first year, pendulous second year
@@ -53,8 +53,8 @@ Relevant info:
   - rapid growing tree
   - very long lived (2,000-3,000 years)
   - does not take root compaction well in managed landscapes
-  - formerly included in *Sequoia* as *S. gigantea* (Lindley)
-  - separation of the two genera is based on differences in the development of *Sequoia* and *Sequoiadendron* seed cones
+  - formerly included in *[Sequoia](../../sequoia/)* as *S. gigantea* (Lindley)
+  - separation of the two genera is based on differences in the development of *[Sequoia](../../sequoia/)* and *[Sequoiadendron](../)* seed cones
   - California state tree, in addition to *[Sequoia sempervirens](../../sequoia/sequoia-sempervirens/)*
 
 <a title="Franz Xaver / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Sequoiadendron_giganteum_3.jpg"><img width="512" alt="Sequoiadendron giganteum 3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sequoiadendron_giganteum_3.jpg/512px-Sequoiadendron_giganteum_3.jpg"></a>
