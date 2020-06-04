@@ -13,8 +13,8 @@ title: MyGreenEyeD
                 {% assign species = site.pages | where: "family", fam.title | where: "layout", "species" %}
             <li>
                 <a href="{{ fam.url | relative_url }}">{{ fam.title }}{% if fam.commonname %} ({{ fam.commonname }}){% endif %}</a>
-                {% if genera.size > 0 %}<span class="faded">| {{ genera.size }} {% if genera.size == 1 %}genus{% else %}genera{% endif %}{% if species.size > 0 %}, {{ species.size }} species{% endif %}</span>{% endif %}
-            </li>
+                {% if genera.size > 0 %}<span class="faded">| {{ genera.size }} {% if genera.size == 1 %}genus{% else %}genera{% endif %}</span>{% endif %}
+        </li>
             {% endfor %}
         </ul>
     </div>
