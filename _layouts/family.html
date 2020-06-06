@@ -24,9 +24,9 @@
                 </div>
                 {% endif %}
                 <div>
-                    <p>Genera:</p>
-                    <ul>
                     {% assign genera = site.pages | where: "family", page.title | where: "layout", "genus" %}
+                    <p>{% if genera.size == 1 %}Genus:{% else %}Genera:{% endif %}</p>
+                    <ul>
                     {% for genus in genera %}
                         {% assign species = site.pages | where: "family", page.title | where: "genus", genus.title %}
                         <li>
