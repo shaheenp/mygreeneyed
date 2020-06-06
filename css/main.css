@@ -17,12 +17,47 @@ body * {
 body {
     font-weight: 300;
     font-size: 1em;
-    background-color: #d5c4a180;
+    background-color: #e4dbc4;
+    color: #4d2f19;
 }
 
 body.night {
     background-color: #202020;
     color: #d5c4a1;
+}
+
+nav {
+    top: 0px;
+    z-index: 9999;
+    height: 40px;
+    font-size: 1.15em;
+    padding: 6px;
+    border-bottom: 1px solid #b0a188;
+}
+
+body.night nav {
+    border-color: #45433a;
+}
+
+div.navbar {
+    max-width: 100%;
+    width: 1170px;
+    line-height: 40px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.navbar .main-title {
+    font-size: 1.3em;
+}
+
+div.navbar > span:not(.main-title) {
+    width: 200px;
+}
+
+div.navbar > span:not(.main-title):last-child {
+    text-align: right;
 }
 
 #container {
@@ -57,7 +92,7 @@ main {
     font-size: 1.15em;
     margin-bottom: 20px;
     padding-bottom: 5px;
-    border-bottom: 1px solid #20202020;
+    border-bottom: 1px solid #4d2f1920;
 }
 
 div > .posts + .posts-header {
@@ -74,7 +109,7 @@ body.night .posts-header {
 }
 
 .faded {
-    color: #00000080;
+    opacity: 50%;
 }
 
 body.night .faded {
@@ -108,7 +143,7 @@ footer {
     max-width: 100%;
     width: 1170px;
     display: inline-block;
-    border-top: 1px solid #20202020;
+    border-top: 1px solid #4d2f1920;
     padding-top: 20px;
 }
 
@@ -189,6 +224,10 @@ ul.posts li + li {
 }
 
 @media only screen and (max-width: 1270px) {
+    nav > div.navbar {
+        width: 970px;
+    }
+
     main {
         width: 970px;
     }
@@ -199,6 +238,10 @@ ul.posts li + li {
 }
 
 @media only screen and (max-width: 1070px) {
+    nav > div.navbar {
+        width: 750px;
+    }
+
     main {
         max-width: calc(100% - 150px);
         width: 750px;

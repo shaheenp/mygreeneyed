@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: default
-title: About | MyGreenEyeD
+title: About
 ---
 
 This site was started initially for a "MyGreenEyeD" project for ESRM 331, Landscape Plant Recognition, at the University of Washington. The purpose of the project was to create a place to document the species we learn in class (Field Days) and species we find & identify ourselves (Discovery Log). The idea was to construct our project in a way where we were learning about the species while working on it and creating it in a way that it serves as a field guide/guide book for future reference and expansion.

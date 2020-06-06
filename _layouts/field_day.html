@@ -3,6 +3,28 @@
 {% include head.html %}
 <body>
     <div id="container">
+        <nav>
+            <div class="navbar">
+                {% assign currNum = page.url | split: "/" | last %}
+                {% assign prevNum = currNum | minus: 1 %}
+                {% capture prevFieldDay %}Field Day {{ prevNum }}{% endcapture %}
+                {% assign prevFieldDayPage = site.pages | where: "title", prevFieldDay | first %}
+                <span>
+                    {% if prevFieldDayPage %}
+                    <a href="{{ prevFieldDayPage.url | relative_url }}">&lsaquo; {{ prevFieldDayPage.title }}</a>
+                    {% endif %}
+                </span>
+                <span class="main-title">Field Day</span>
+                {% assign nextNum = currNum | plus: 1 %}
+                {% capture nextFieldDay %}Field Day {{ nextNum }}{% endcapture %}
+                {% assign nextFieldDayPage = site.pages | where: "title", nextFieldDay | first %}
+                <span>
+                    {% if nextFieldDayPage %}
+                    <a href="{{ nextFieldDayPage.url | relative_url }}">{{ nextFieldDayPage.title }} &rsaquo;</a>
+                    {% endif %}
+                </span>
+            </div>
+        </nav>
         <main>
             <div class="post-header">
                 <span>
@@ -13,25 +35,6 @@
                 <span id="postDate" class="faded">{{ page.date | date: "%A, %B %-d, %Y" }}</span>
             </div>
             <div>
-                <div class="field-day-nav">
-                    {% assign currNum = page.url | split: "/" | last %}
-                    <span>
-                        {% assign prevNum = currNum | minus: 1 %}
-                        {% capture prevFieldDay %}Field Day {{ prevNum }}{% endcapture %}
-                        {% assign prevFieldDayPage = site.pages | where: "title", prevFieldDay | first %}
-                        {% if prevFieldDayPage %}
-                        <a href="{{ prevFieldDayPage.url | relative_url }}">&lsaquo; {{ prevFieldDayPage.title }}</a>
-                        {% endif %}
-                    </span>
-                    <span>
-                        {% assign nextNum = currNum | plus: 1 %}
-                        {% capture nextFieldDay %}Field Day {{ nextNum }}{% endcapture %}
-                        {% assign nextFieldDayPage = site.pages | where: "title", nextFieldDay | first %}
-                        {% if nextFieldDayPage %}
-                        <a href="{{ nextFieldDayPage.url | relative_url }}">{{ nextFieldDayPage.title }} &rsaquo;</a>
-                        {% endif %}
-                    </span>
-                </div>
                 <ul class="posts">
                     {% for item in page.list %}
                         {% assign item_page = site.pages | where: "title", item | first %}
