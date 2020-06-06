@@ -49,6 +49,10 @@ div.navbar {
     justify-content: space-between;
 }
 
+nav.default div.navbar {
+    justify-content: center;
+}
+
 div.navbar div.nav-center {
     text-align: center;
 }
