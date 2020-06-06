@@ -55,7 +55,7 @@ Fruit:
 
 Other characteristics:
   - deciduous
-  - flowers and hips are significantly larger than in most closely related specie
+  - flowers and hips are significantly larger than in most closely related species
 
 Relevant info:
   - widespread, polymorphic, hexaploid species
