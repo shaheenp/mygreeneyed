@@ -29,31 +29,38 @@ body.night {
 nav {
     top: 0px;
     z-index: 9999;
-    height: 40px;
     font-size: 1.15em;
-    padding: 6px;
+    padding: 6px 10px;
+}
+
+nav.field-day {
     border-bottom: 1px solid #b0a188;
 }
 
-body.night nav {
+body.night nav.field-day {
     border-color: #45433a;
 }
 
 div.navbar {
     max-width: 100%;
     width: 1170px;
-    line-height: 40px;
     margin: auto;
     display: flex;
     justify-content: space-between;
 }
 
+div.navbar div.nav-center {
+    text-align: center;
+}
+
 div.navbar .main-title {
     font-size: 1.3em;
+    line-height: 40px;
 }
 
 div.navbar > span:not(.main-title) {
-    width: 200px;
+    width: 150px;
+    align-self: center;
 }
 
 div.navbar > span:not(.main-title):last-child {
@@ -81,10 +88,20 @@ a:visited {
 main {
     max-width: 100%;
     width: 1170px;
-    padding: 50px;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
     padding-bottom: 140px;
     margin: auto;
     word-wrap: break-word;
+}
+
+main.default {
+    padding-top: 10px;
+}
+
+main.field-day {
+    padding-top: 20px;
 }
 
 .post-header,

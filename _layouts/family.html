@@ -3,16 +3,11 @@
 {% include head.html %}
 <body>
     <div id="container">
-        <nav>
-            <div class="navbar" style="justify-content:center;">
-                <span class="main-title">Family</span>
-            </div>
-        </nav>
         <main>
             <div class="post-header">
                 <span>
                     <a href="{{ "." | relative_url }}">Home</a>
-                    /
+                    <span class="faded">&rsaquo;</span>
                     {{ page.title }}{% if page.commonname %} ({{ page.commonname }}){% endif %}
                 </span>
             </div>

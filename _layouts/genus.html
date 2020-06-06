@@ -3,19 +3,14 @@
 {% include head.html %}
 <body>
     <div id="container">
-        <nav>
-            <div class="navbar" style="justify-content:center;">
-                <span class="main-title">Genus</span>
-            </div>
-        </nav>
         <main>
             <div class="post-header">
                 <span>
                     <a href="{{ "." | relative_url }}">Home</a>
-                    /
+                    <span class="faded">&rsaquo;</span>
                     {% assign family = site.pages | where: "title", page.family | first %}
                     <a href="{{ family.url | relative_url }}">{{ family.title }}</a>
-                    /
+                    <span class="faded">&rsaquo;</span>
                     <span class="italic">{{ page.title }}</span>{% if page.commonname %} ({{ page.commonname }}){% endif %}
                 </span>
             </div>
