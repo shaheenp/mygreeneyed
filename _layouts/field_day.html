@@ -11,7 +11,8 @@
                 {% assign prevFieldDayPage = site.pages | where: "title", prevFieldDay | first %}
                 <span>
                     {% if prevFieldDayPage %}
-                    <a href="{{ prevFieldDayPage.url | relative_url }}">&lsaquo; {{ prevFieldDayPage.title }}</a>
+                    <a id="prev-page" href="{{ prevFieldDayPage.url | relative_url }}">&lsaquo; {{ prevFieldDayPage.title }}</a>
+                    <a id="prev-page-mobile" href="{{ prevFieldDayPage.url | relative_url }}">&lsaquo; {{ prevNum }}</a>
                     {% endif %}
                 </span>
                 <div class="nav-center">
@@ -23,7 +24,8 @@
                 {% assign nextFieldDayPage = site.pages | where: "title", nextFieldDay | first %}
                 <span>
                     {% if nextFieldDayPage %}
-                    <a href="{{ nextFieldDayPage.url | relative_url }}">{{ nextFieldDayPage.title }} &rsaquo;</a>
+                    <a id="next-page" href="{{ nextFieldDayPage.url | relative_url }}">{{ nextFieldDayPage.title }} &rsaquo;</a>
+                    <a id="next-page-mobile" href="{{ nextFieldDayPage.url | relative_url }}">{{ nextNum }} &rsaquo;</a>
                     {% endif %}
                 </span>
             </div>

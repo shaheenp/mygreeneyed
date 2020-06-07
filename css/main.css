@@ -30,7 +30,7 @@ nav {
     top: 0px;
     z-index: 9999;
     font-size: 1.15em;
-    padding: 6px 10px;
+    padding: 5px;
 }
 
 nav.field-day {
@@ -69,6 +69,10 @@ div.navbar > span:not(.main-title) {
 
 div.navbar > span:not(.main-title):last-child {
     text-align: right;
+}
+
+#prev-page-mobile, #next-page-mobile {
+    display: none;
 }
 
 #container {
@@ -260,7 +264,20 @@ ul.posts li + li {
 
 @media only screen and (max-width: 1070px) {
     nav > div.navbar {
+        max-width: calc(100% - 40px);
         width: 750px;
+    }
+
+    div.navbar > span:not(.main-title) {
+        width: 40px;
+    }
+
+    #prev-page, #next-page {
+        display: none;
+    }
+
+    #prev-page-mobile, #next-page-mobile {
+        display: initial;
     }
 
     main {
