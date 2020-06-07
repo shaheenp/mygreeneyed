@@ -16,7 +16,7 @@
                 </span>
                 <div class="nav-center">
                     <div class="main-title">{{ page.title }}</div>
-                    <div id="postDate" class="faded">{{ page.date | date: "%A, %B %-d, %Y" }}</div>
+                    <div class="faded">{{ page.date | date: "%A, %B %-d, %Y" }}</div>
                 </div>
                 {% assign nextNum = currNum | plus: 1 %}
                 {% capture nextFieldDay %}Field Day {{ nextNum }}{% endcapture %}

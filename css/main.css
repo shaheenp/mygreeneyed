@@ -63,7 +63,7 @@ div.navbar .main-title {
 }
 
 div.navbar > span:not(.main-title) {
-    width: 150px;
+    width: 120px;
     align-self: center;
 }
 
@@ -284,9 +284,5 @@ ul.posts li + li {
 
     .post-header {
         flex-direction: column;
-    }
-
-    #postDate {
-        margin-top: 10px;
     }
 }
