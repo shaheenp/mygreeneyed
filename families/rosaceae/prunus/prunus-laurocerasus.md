@@ -7,8 +7,6 @@ family: Rosaceae
 genus: Prunus
 ---
 
-*Prunus* -- plum or cherry tree (Latin)
-
 *cerasus* + *lauro* -- cherry + laurel, referring to common name that signifies its resemblance to true laurel
 
 Native range: SW Europe
