@@ -6,6 +6,8 @@ commonname: pines
 family: Pinaceae
 ---
 
+*Pinus* -- pine (Latin)
+
 Leaves:
   - evergreen
   - needles

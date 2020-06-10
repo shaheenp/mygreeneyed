@@ -7,8 +7,6 @@ family: Pinaceae
 genus: Pinus
 ---
 
-*Pinus* -- pine genus
-
 *nigra* -- black
 
 Native range: Austria, N. Italy to the Balkans
