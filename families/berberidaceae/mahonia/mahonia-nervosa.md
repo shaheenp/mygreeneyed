@@ -19,12 +19,12 @@ Leaves:
   - no spines on branches
   - leaves spiney-dentate (or coarsely serrate-spiny)
   - 9-19 leaflets (or 4-9 pairs)
-  - margin not undulate (compare *[M. aquifolium](../mahonia-aquifolium.md)*)
+  - margin not undulate (compare *[M. aquifolium](../mahonia-aquifolium/)*)
   - veins not pinnate
   - thick
   - grey-green color
   - dull on upper surface
-  - each leaflet with three central veins (vs. 1 in *[M. aquifolium](../mahonia-aquifolium.md)*)
+  - each leaflet with three central veins (vs. 1 in *[M. aquifolium](../mahonia-aquifolium/)*)
   - palmately 3-8 nerved
 
 <a title="Walter Siegmund / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Mahonia_nervosa_5052.JPG"><img width="512" alt="Mahonia nervosa 5052" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mahonia_nervosa_5052.JPG/512px-Mahonia_nervosa_5052.JPG"></a>

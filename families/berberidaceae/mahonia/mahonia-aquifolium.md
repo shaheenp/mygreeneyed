@@ -21,7 +21,7 @@ Leaves:
   - spiny-toothed
   - no spines on branches
   - shiny on upper surface
-  - each leaflet with one central vein (vs. 3 in *[M. nervosa](../mahonia-nervosa.md)*)
+  - each leaflet with one central vein (vs. 3 in *[M. nervosa](../mahonia-nervosa/)*)
   - pinnately nerved from the mid-vein
   - 12-29 spiny teeth
 
@@ -55,7 +55,7 @@ Relevant info:
 Ecology & Adaptations:
   - widely distributed throughout Washington, southern British Columbia south to Northern California, east to northern Idaho and western Montana
   - found in sagebrush slopes and open woods
-  - drier, more open, (often rocky) sites than *[M. nervosa](../mahonia-nervosa.md)*
+  - drier, more open, (often rocky) sites than *[M. nervosa](../mahonia-nervosa/)*
   - resistant to summer drought -- waxy coating retains water
   - tolerant of nutrient-poor soils -- evergreen leaves conserve resources and preserve investment in photosynthetic tissues
   - reproduces vegetatively via stolons only occasionally
